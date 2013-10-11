@@ -1,0 +1,5 @@
+Leave 3
+Go To 48
+Other 1
+Stop At 7
+Set Destination 12

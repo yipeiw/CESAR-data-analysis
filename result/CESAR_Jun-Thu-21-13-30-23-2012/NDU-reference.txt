@@ -1,0 +1,108 @@
+Set Destination(museum),3,3
+Leave(hotel,1,0
+Go To(road17),2,0
+Go To(driveway0),2,0
+Go To(driveway2),0,0
+Go To(road42),1,0
+Go To(road38),1,0
+Go To(road44),3,0
+Go To(museum,4,0
+Stop At(museum,2,2
+Set Destination(post,3,3
+Leave(museum,3,0
+Go To(road45),1,0
+Go To(road46),2,0
+Go To(road47),1,0
+Go To(road57),2,0
+Go To(road58),4,2
+Go To(parking,2,0
+Stop At(post,1,0
+Set Destination(gym),3,3
+Leave(post,1,0
+Go To(parking,2,0
+Go To(driveway7),1,0
+Set Destination(gas,2,2
+Go To(road59),1,0
+Go To(road170),1,0
+Go To(road38),1,0
+Go To(gas,0,0
+Stop At(gas,2,0
+Set Destination(gym),3,3
+Leave(gas,1,0
+Go To(driveway33),0,0
+Go To(road41),1,0
+Go To(road37),1,0
+Stop At(road33),1,0
+Set Destination(mcdonalds),3,3
+Go To(intersection39),1,0
+Go To(road127),0,0
+Go To(road153),1,0
+Go To(driveway10),2,0
+Go To(driveway11),3,2
+Go To(driveway13),1,0
+Go To(driveway14),0,0
+Go To(driveway15),1,0
+Other(),2,0
+Stop At(drivethrough,2,0
+Set Destination(hotel),3,3
+Go To(driveway10),0,0
+Go To(road153),1,0
+Go To(road128),1,0
+Go To(driveway3),2,0
+Go To(parking,3,0
+Set Destination(barracks),3,3
+Leave(hotel,1,0
+Go To(road17),1,0
+Go To(road37),1,0
+Go To(road128),0,0
+Go To(road130),2,0
+Go To(barracks,1,0
+Stop At(barracks,2,0
+Set Destination(crown,3,3
+Go To(intersection44),1,0
+Go To(road133),0,0
+Other(),2,0
+Go To(intersection45),2,2
+Go To(road136),1,0
+Go To(road138),1,0
+Go To(road146),2,0
+Go To(road128),1,0
+Go To(road174),1,0
+Go To(road59),1,0
+Go To(driveway7),3,0
+Go To(intersection60),0,0
+Go To(parking,1,0
+Go To(parking,2,0
+Stop At(crown,1,0
+Set Destination(nanotech),3,3
+Leave(crown,1,0
+Go To(parking,1,0
+Other(),3,2
+Set Destination(barracks),3,3
+Go To(road64),1,0
+Go To(road9),0,0
+Go To(road1),1,0
+Go To(road37),3,3
+Go To(road128),1,0
+Go To(road128),3,3
+Go To(barracks,2,0
+Set Destination(nanotech),3,3
+Go To(road132),1,0
+Go To(road128),1,0
+Go To(road174),1,0
+Go To(driveway7),2,0
+Stop At(nanotech,1,0
+Set Destination(hotel),2,2
+Leave(nanotech,1,0
+Go To(parking,0,0
+Go To(parking,0,0
+Go To(parking,0,0
+Go To(driveway6),0,0
+Go To(road62),1,0
+Go To(road9),0,0
+Go To(road1),1,0
+Go To(driveway3),1,0
+Go To(parking,0,0
+Stop At(hotel,0,0
+Go To(road37),1,0
+Go To(parking,0,0

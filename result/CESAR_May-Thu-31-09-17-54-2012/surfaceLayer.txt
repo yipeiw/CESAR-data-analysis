@@ -1,0 +1,571 @@
+<driver> appear_num:136 expression_num:12 omit:0 by_driver_appear:77 by_driver_expression:11 by_driver_omit:0
+	<you>,<9-9>,copilot,False
+	<your>,<58-58>,driver,False
+	<mine>,<74-74>,driver,False
+	<your>,<104-104>,driver,False
+	<your>,<107-107>,driver,False
+	<youre>,<126-126>,driver,False
+	<i>,<141-141>,driver,False
+	<your>,<150-150>,copilot,False
+	<i>,<155-155>,driver,False
+	<i>,<161-161>,driver,False
+	<you>,<164-164>,copilot,False
+	<id>,<179-179>,driver,False
+	<i>,<194-194>,driver,False
+	<you>,<199-199>,copilot,False
+	<you>,<208-208>,copilot,False
+	<you>,<223-223>,copilot,False
+	<i>,<250-250>,driver,False
+	<youre>,<260-260>,copilot,False
+	<you>,<285-285>,copilot,False
+	<you>,<288-288>,copilot,False
+	<i>,<335-335>,driver,False
+	<i>,<372-372>,driver,False
+	<you>,<383-383>,copilot,False
+	<me>,<403-403>,driver,False
+	<you>,<532-532>,copilot,False
+	<youre>,<571-571>,copilot,False
+	<your>,<574-574>,copilot,False
+	<you>,<600-600>,copilot,False
+	<i>,<604-604>,driver,False
+	<i>,<612-612>,driver,False
+	<you>,<629-629>,copilot,False
+	<you>,<722-722>,copilot,False
+	<youre>,<746-746>,copilot,False
+	<your>,<749-749>,copilot,False
+	<i>,<758-758>,driver,False
+	<you>,<770-770>,copilot,False
+	<you>,<790-790>,copilot,False
+	<youre>,<797-797>,copilot,False
+	<you>,<809-809>,copilot,False
+	<you>,<827-827>,copilot,False
+	<you>,<847-847>,copilot,False
+	<you>,<852-852>,copilot,False
+	<i>,<860-860>,driver,False
+	<i>,<950-950>,driver,False
+	<you>,<968-968>,copilot,False
+	<you>,<982-982>,copilot,False
+	<me>,<1069-1069>,driver,False
+	<you>,<1098-1098>,copilot,False
+	<your>,<1121-1121>,copilot,False
+	<i>,<1167-1167>,driver,False
+	<i>,<1181-1181>,driver,False
+	<you>,<1187-1187>,copilot,False
+	<you>,<1192-1192>,copilot,False
+	<me>,<1203-1203>,driver,False
+	<you>,<1277-1277>,copilot,False
+	<i>,<1318-1318>,driver,False
+	<i>,<1423-1423>,driver,False
+	<you>,<1436-1436>,copilot,False
+	<i>,<1574-1574>,driver,False
+	<i>,<1577-1577>,driver,False
+	<you>,<1598-1598>,copilot,False
+	<id>,<1605-1605>,driver,False
+	<your>,<1683-1683>,copilot,False
+	<i>,<1703-1703>,driver,False
+	<i>,<1705-1705>,driver,False
+	<i>,<1720-1720>,driver,False
+	<i>,<1808-1808>,driver,False
+	<im>,<1895-1895>,driver,False
+	<my>,<1899-1899>,driver,False
+	<i>,<1916-1916>,driver,False
+	<ive>,<1918-1918>,driver,False
+	<mike>,<1951-1951>,copilot,False
+	<my>,<2071-2071>,driver,False
+	<im>,<2194-2194>,driver,False
+	<you>,<2179-2179>,copilot,False
+	<you>,<2363-2363>,copilot,False
+	<you>,<2371-2371>,copilot,False
+	<i>,<2373-2373>,driver,False
+	<you>,<2375-2375>,driver,False
+	<i>,<2388-2388>,driver,False
+	<you>,<2392-2392>,copilot,False
+	<you>,<2398-2398>,copilot,False
+	<you>,<2430-2430>,copilot,False
+	<i>,<2451-2451>,driver,False
+	<i>,<2453-2453>,driver,False
+	<me>,<2461-2461>,driver,False
+	<i>,<2465-2465>,driver,False
+	<im>,<2473-2473>,driver,False
+	<i>,<2476-2476>,driver,False
+	<i>,<2481-2481>,driver,False
+	<you>,<2498-2498>,copilot,False
+	<i>,<2503-2503>,driver,False
+	<ill>,<2512-2512>,driver,False
+	<im>,<2516-2516>,driver,False
+	<you>,<2552-2552>,copilot,False
+	<you>,<2559-2559>,copilot,False
+	<you>,<2586-2586>,copilot,False
+	<im>,<2612-2612>,driver,False
+	<i>,<2616-2616>,driver,False
+	<i>,<2621-2621>,driver,False
+	<i>,<2632-2632>,driver,False
+	<ill>,<2637-2637>,driver,False
+	<im>,<2644-2644>,driver,False
+	<ill>,<2659-2659>,driver,False
+	<you>,<2676-2676>,copilot,False
+	<you>,<2740-2740>,copilot,False
+	<your>,<2755-2755>,copilot,False
+	<i>,<2771-2771>,driver,False
+	<ill>,<2783-2783>,driver,False
+	<ill>,<2784-2784>,driver,False
+	<i>,<2787-2787>,driver,False
+	<ill>,<2794-2794>,driver,False
+	<i>,<2820-2820>,driver,False
+	<i>,<2838-2838>,driver,False
+	<i>,<2846-2846>,driver,False
+	<i>,<2879-2879>,driver,False
+	<i>,<3011-3011>,copilot,False
+	<you>,<3068-3068>,copilot,False
+	<im>,<3111-3111>,driver,False
+	<you>,<3120-3120>,copilot,False
+	<you>,<3137-3137>,copilot,False
+	<you>,<3149-3149>,copilot,False
+	<im>,<3165-3165>,driver,False
+	<me>,<3180-3180>,driver,False
+	<ill>,<3197-3197>,driver,False
+	<you>,<3224-3224>,copilot,False
+	<i>,<3295-3295>,driver,False
+	<you>,<3303-3303>,copilot,False
+	<i>,<3346-3346>,driver,False
+	<i>,<3353-3353>,driver,False
+	<i>,<3385-3385>,driver,False
+	<i>,<3406-3406>,driver,False
+	<im>,<3417-3417>,driver,False
+	<you>,<3450-3450>,copilot,False
+	<you>,<503-503>,copilot,False
+	<you>,<1492-1492>,copilot,False
+<copilot> appear_num:39 expression_num:9 omit:1 by_driver_appear:9 by_driver_expression:5 by_driver_omit:1
+	<im>,<4-4>,copilot,False
+	<your copilot>,<104-105>,driver,True
+	<he>,<118-118>,driver,False
+	<me>,<168-168>,copilot,False
+	<you>,<177-177>,driver,False
+	<you>,<192-192>,driver,False
+	<i>,<282-282>,copilot,False
+	<i>,<295-295>,copilot,False
+	<i>,<298-298>,driver,False
+	<your>,<340-340>,driver,False
+	<i>,<392-392>,copilot,False
+	<ill>,<627-627>,copilot,False
+	<ill>,<788-788>,copilot,False
+	<me>,<849-849>,copilot,False
+	<me>,<980-980>,copilot,False
+	<me>,<1026-1026>,copilot,False
+	<i>,<1029-1029>,copilot,False
+	<i>,<1033-1033>,copilot,False
+	<im>,<1049-1049>,copilot,False
+	<my>,<1058-1058>,copilot,False
+	<me>,<1189-1189>,copilot,False
+	<i>,<1413-1413>,copilot,False
+	<me>,<1434-1434>,copilot,False
+	<i>,<1625-1625>,copilot,False
+	<i>,<1795-1795>,copilot,False
+	<i>,<1815-1815>,copilot,False
+	<i>,<1999-1999>,copilot,False
+	<i>,<2001-2001>,copilot,False
+	<i>,<2046-2046>,copilot,False
+	<i>,<2057-2057>,copilot,False
+	<i>,<2168-2168>,copilot,False
+	<you>,<2198-2198>,driver,False
+	<you>,<2446-2446>,driver,False
+	<me>,<2501-2501>,copilot,False
+	<me>,<2550-2550>,copilot,False
+	<i>,<2674-2674>,copilot,False
+	<i>,<2808-2808>,copilot,False
+	<you>,<3285-3285>,driver,False
+	<i>,<3324-3324>,copilot,False
+<sam_mckenna> appear_num:32 expression_num:11 omit:10 by_driver_appear:18 by_driver_expression:7 by_driver_omit:5
+	<sam mckenna>,<65-66>,driver,True
+	<he>,<68-68>,driver,False
+	<hes>,<69-69>,driver,False
+	<he>,<77-77>,driver,False
+	<sam>,<2414-2414>,copilot,True
+	<he>,<2415-2415>,copilot,False
+	<your>,<2419-2419>,copilot,False
+	<ill>,<2422-2422>,copilot,False
+	<my>,<2425-2425>,copilot,False
+	<you>,<2471-2471>,driver,False
+	<sam>,<2510-2510>,copilot,True
+	<you>,<2514-2514>,driver,False
+	<sam>,<2824-2824>,driver,True
+	<sam>,<2828-2828>,driver,True
+	<him>,<2830-2830>,driver,False
+	<you>,<2836-2836>,driver,False
+	<you>,<2843-2843>,driver,False
+	<sam>,<2861-2861>,copilot,True
+	<sam>,<3093-3093>,driver,True
+	<he>,<3101-3101>,driver,False
+	<hed>,<3105-3105>,driver,False
+	<sam>,<3126-3126>,copilot,True
+	<he>,<3127-3127>,copilot,False
+	<hes>,<3131-3131>,copilot,False
+	<he>,<3145-3145>,copilot,False
+	<he>,<3158-3158>,copilot,False
+	<him>,<3164-3164>,driver,False
+	<hes>,<3170-3170>,driver,False
+	<him>,<3199-3199>,driver,False
+	<sam>,<3209-3209>,driver,True
+	<sam>,<3219-3219>,copilot,True
+	<hell>,<3222-3222>,copilot,False
+<phil_collison> appear_num:27 expression_num:8 omit:16 by_driver_appear:19 by_driver_expression:7 by_driver_omit:12
+	<phil collison>,<88-89>,driver,True
+	<phil collison>,<100-101>,copilot,True
+	<phil collison>,<1586-1587>,driver,True
+	<he>,<1588-1588>,driver,False
+	<phil collison>,<1611-1612>,driver,True
+	<phil>,<1614-1614>,driver,True
+	<you>,<1616-1616>,driver,False
+	<phil>,<1734-1734>,driver,True
+	<phil>,<1742-1742>,driver,True
+	<phil>,<1989-1989>,driver,True
+	<phil>,<2094-2094>,driver,True
+	<phil>,<2098-2098>,copilot,True
+	<phil>,<2103-2103>,driver,True
+	<youre>,<2108-2108>,driver,False
+	<phil>,<2565-2565>,copilot,True
+	<he>,<2567-2567>,copilot,False
+	<i>,<2576-2576>,copilot,False
+	<i>,<2584-2584>,copilot,False
+	<phil>,<2620-2620>,driver,True
+	<you>,<2639-2639>,driver,False
+	<you>,<2661-2661>,driver,False
+	<phil>,<2671-2671>,copilot,True
+	<phil>,<2776-2776>,driver,True
+	<him>,<2782-2782>,driver,False
+	<your>,<2796-2796>,driver,False
+	<him>,<2810-2810>,copilot,False
+	<phil>,<3049-3049>,driver,True
+<Other> appear_num:24 expression_num:18 omit:0 by_driver_appear:10 by_driver_expression:9 by_driver_omit:0
+	<the first sheet>,<0-2>,copilot,False
+	<this>,<314-314>,driver,False
+	<this>,<324-324>,copilot,False
+	<it>,<327-327>,copilot,False
+	<its>,<333-333>,copilot,False
+	<this>,<375-375>,driver,False
+	<that>,<582-582>,copilot,False
+	<postal patrons>,<738-739>,driver,False
+	<this>,<1998-1998>,copilot,False
+	<my phone>,<2071-2072>,driver,False
+	<the vice president>,<2569-2571>,copilot,False
+	<the quarterly report>,<2578-2580>,copilot,False
+	<your backseat>,<2582-2583>,copilot,False
+	<it>,<2589-2589>,copilot,False
+	<the quarterly report>,<2597-2599>,copilot,False
+	<the door>,<2747-2748>,driver,False
+	<singularity university>,<2990-2991>,driver,False
+	<your report>,<3051-3052>,driver,False
+	<the hotel lobby>,<3226-3228>,copilot,False
+	<hotel lobby>,<3231-3232>,driver,False
+	<the hotel lobby>,<3403-3405>,driver,False
+	<this one>,<2760-2761>,copilot,False
+	<thats>,<2754-2754>,copilot,False
+	<singularity route university>,<3241-3243>,driver,False
+<barracks> appear_num:13 expression_num:4 omit:10 by_driver_appear:8 by_driver_expression:3 by_driver_omit:6
+	<the army barracks>,<1591-1593>,driver,True
+	<the army barracks>,<1621-1623>,driver,True
+	<the army barracks>,<1744-1747>,driver,True
+	<the army barracks>,<1982-1984>,copilot,True
+	<the army barracks>,<1991-1993>,driver,True
+	<here>,<2574-2574>,copilot,False
+	<there>,<2650-2650>,driver,False
+	<the army barracks>,<2801-2803>,driver,True
+	<the army barracks>,<2868-2870>,copilot,True
+	<the army barracks>,<2882-2884>,driver,True
+	<here>,<2996-2996>,driver,False
+	<the army barracks>,<2997-2999>,copilot,True
+	<the barracks>,<3026-3027>,copilot,True
+<gas_station> appear_num:12 expression_num:4 omit:6 by_driver_appear:2 by_driver_expression:2 by_driver_omit:0
+	<the gas station>,<817-819>,copilot,True
+	<the gas station>,<855-857>,copilot,True
+	<it>,<865-865>,driver,False
+	<the gas station>,<896-898>,copilot,True
+	<its>,<906-906>,copilot,False
+	<the gas station>,<918-920>,copilot,True
+	<this>,<934-934>,driver,False
+	<it>,<938-938>,copilot,False
+	<its>,<945-945>,copilot,False
+	<the gas station>,<989-991>,copilot,True
+	<this>,<1874-1874>,copilot,False
+	<the gas station>,<1885-1887>,copilot,True
+<moffett_field> appear_num:11 expression_num:5 omit:3 by_driver_appear:9 by_driver_expression:5 by_driver_omit:3
+	<it>,<46-46>,driver,False
+	<moffett field>,<50-51>,driver,True
+	<moffett field>,<80-81>,driver,True
+	<the city of moffett field>,<184-188>,driver,True
+	<here>,<304-304>,driver,False
+	<here>,<1031-1031>,copilot,False
+	<here>,<1041-1041>,copilot,False
+	<here>,<1802-1802>,driver,False
+	<town>,<1903-1903>,driver,False
+	<town>,<3272-3272>,driver,False
+	<here>,<3320-3320>,driver,False
+<hotel> appear_num:10 expression_num:3 omit:10 by_driver_appear:5 by_driver_expression:3 by_driver_omit:5
+	<the hotel>,<1429-1430>,driver,True
+	<the hotel>,<1440-1441>,copilot,True
+	<the wescott hotel>,<1511-1515>,driver,True
+	<the hotel>,<2949-2950>,driver,True
+	<the hotel>,<2952-2953>,copilot,True
+	<the hotel>,<3075-3076>,copilot,True
+	<the hotel>,<3226-3227>,copilot,True
+	<hotel>,<3231-3231>,driver,True
+	<the hotel>,<3358-3359>,copilot,True
+	<the hotel>,<3403-3404>,driver,True
+<nanotech> appear_num:9 expression_num:5 omit:6 by_driver_appear:5 by_driver_expression:3 by_driver_omit:4
+	<nanotech>,<2527-2527>,driver,True
+	<nanotech>,<2533-2533>,driver,True
+	<nanotech industries>,<2545-2546>,driver,True
+	<nanotech>,<2555-2555>,copilot,True
+	<nanotech>,<2679-2679>,copilot,True
+	<the building on the left>,<2723-2727>,copilot,False
+	<it>,<2732-2732>,copilot,False
+	<nanotech industries>,<2737-2738>,driver,True
+	<here>,<2887-2887>,driver,False
+<Unknown> appear_num:8 expression_num:8 omit:0 by_driver_appear:5 by_driver_expression:5 by_driver_omit:0
+	<the first stop sign>,<352-355>,copilot,False
+	<thats>,<694-694>,driver,False
+	<another person>,<1655-1656>,copilot,False
+	<the next driver>,<1699-1701>,copilot,False
+	<her>,<1761-1761>,driver,False
+	<the restaurant>,<3194-3195>,driver,False
+	<there>,<3200-3200>,driver,False
+	<theres>,<3434-3434>,driver,False
+<crown_startup_funds> appear_num:8 expression_num:3 omit:5 by_driver_appear:4 by_driver_expression:2 by_driver_omit:3
+	<crown startup funds>,<1571-1573>,driver,True
+	<crown startup funds>,<2184-2186>,copilot,True
+	<crown startup funds>,<2202-2204>,driver,True
+	<crown startup funds>,<2218-2220>,driver,True
+	<its>,<2348-2348>,copilot,False
+	<its>,<2354-2354>,copilot,False
+	<this building>,<2359-2360>,driver,False
+	<crown startup funds>,<2404-2406>,copilot,True
+<mcdonalds> appear_num:7 expression_num:3 omit:5 by_driver_appear:3 by_driver_expression:2 by_driver_omit:2
+	<mcdonalds>,<1177-1177>,driver,True
+	<mcdonalds>,<1195-1195>,copilot,True
+	<mcdonalds>,<1206-1206>,driver,True
+	<mcdonalds>,<1253-1253>,copilot,True
+	<mcdonalds>,<1265-1265>,copilot,True
+	<here>,<1303-1303>,driver,False
+	<it>,<1305-1305>,copilot,False
+<gym> appear_num:7 expression_num:1 omit:7 by_driver_appear:2 by_driver_expression:1 by_driver_omit:2
+	<the gym>,<765-767>,driver,True
+	<the gym>,<775-776>,copilot,True
+	<the gym>,<793-794>,copilot,True
+	<the gym>,<825-826>,copilot,True
+	<the gym>,<973-974>,driver,True
+	<the gym>,<975-976>,copilot,True
+	<the gym>,<1116-1117>,copilot,True
+<conference_center> appear_num:6 expression_num:1 omit:6 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<the conference center>,<214-216>,copilot,True
+	<the conference center>,<244-246>,driver,True
+	<the conference center>,<292-294>,copilot,True
+	<the conference center>,<515-518>,copilot,True
+	<the conference center>,<562-564>,copilot,True
+	<the conference center>,<578-580>,copilot,True
+<post_office> appear_num:5 expression_num:2 omit:5 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<the post office>,<609-611>,driver,True
+	<the post office>,<632-634>,copilot,True
+	<the post office>,<684-686>,copilot,True
+	<the post office>,<714-716>,copilot,True
+	<post office>,<750-751>,copilot,True
+<drivethrough_of_mcdonalds> appear_num:5 expression_num:4 omit:3 by_driver_appear:3 by_driver_expression:3 by_driver_omit:1
+	<the drivethrough>,<1287-1288>,copilot,True
+	<theres>,<1291-1291>,driver,False
+	<this>,<1368-1368>,driver,False
+	<drivethrough>,<1371-1371>,copilot,True
+	<the drivethrough>,<1372-1373>,driver,True
+<stop_sign_11> appear_num:5 expression_num:3 omit:5 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<the stop sign>,<380-382>,copilot,True
+	<the stop sign>,<413-415>,copilot,True
+	<the first stop sign>,<2256-2259>,copilot,True
+	<stop sign>,<2266-2267>,driver,True
+	<the stop sign>,<2274-2276>,copilot,True
+<hotel_parking_lot> appear_num:5 expression_num:2 omit:5 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the parking lot>,<266-268>,copilot,True
+	<the parking lot>,<278-280>,copilot,True
+	<the hotel parking lot>,<1500-1503>,copilot,True
+	<the parking lot>,<1535-1537>,copilot,True
+	<the parking lot>,<1716-1718>,copilot,True
+<intersection10> appear_num:5 expression_num:4 omit:0 by_driver_appear:3 by_driver_expression:3 by_driver_omit:0
+	<here>,<430-430>,copilot,False
+	<here>,<433-433>,copilot,False
+	<this>,<443-443>,driver,False
+	<its>,<452-452>,driver,False
+	<it>,<449-449>,driver,False
+<road177> appear_num:3 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this road>,<2014-2015>,copilot,False
+	<this road>,<2038-2039>,copilot,False
+	<the way we came>,<2136-2139>,copilot,False
+<intersection36> appear_num:3 expression_num:2 omit:0 by_driver_appear:3 by_driver_expression:2 by_driver_omit:0
+	<here>,<1831-1831>,driver,False
+	<here>,<1837-1837>,driver,False
+	<this>,<1859-1859>,driver,False
+<post_office_parking_lot> appear_num:3 expression_num:2 omit:3 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the parking lot>,<705-707>,copilot,True
+	<the parking lot>,<785-787>,copilot,True
+	<this parking lot>,<836-838>,copilot,True
+<conference_center_parking_lot1> appear_num:3 expression_num:2 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the parking lot>,<509-511>,copilot,True
+	<here>,<536-536>,copilot,False
+	<the parking lot>,<624-626>,copilot,True
+<hangar1> appear_num:3 expression_num:2 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<hangar>,<464-464>,driver,False
+	<it>,<471-471>,copilot,False
+	<it>,<482-482>,copilot,False
+<stop_sign_13> appear_num:3 expression_num:2 omit:3 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next stop sign>,<1783-1786>,copilot,True
+	<this stop sign>,<1945-1947>,copilot,True
+	<this stop sign>,<2982-2984>,copilot,True
+<road33> appear_num:3 expression_num:2 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<1149-1149>,copilot,False
+	<here>,<1151-1151>,driver,False
+	<the parking lot>,<1217-1219>,copilot,False
+<Set> appear_num:3 expression_num:3 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<the hangars>,<85-86>,driver,False
+	<these>,<931-931>,copilot,False
+	<the two buildings>,<2333-2335>,copilot,False
+<car> appear_num:3 expression_num:3 omit:1 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<your car>,<340-341>,driver,True
+	<it>,<551-551>,copilot,False
+	<your>,<2582-2582>,copilot,False
+<building8> appear_num:3 expression_num:3 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<carnegie mellon>,<2350-2351>,copilot,False
+	<here>,<2352-2352>,driver,False
+	<this building>,<2356-2357>,copilot,False
+<barracks_wrong0_parking> appear_num:3 expression_num:2 omit:1 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<2095-2095>,driver,False
+	<here>,<2099-2099>,copilot,False
+	<this parking lot>,<2125-2127>,copilot,True
+<parking_lot_22> appear_num:2 expression_num:1 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the parking lot>,<2295-2297>,copilot,True
+	<the parking lot>,<2920-2922>,copilot,True
+<parking_lot_aisle0> appear_num:2 expression_num:2 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<this>,<1522-1522>,driver,False
+	<there>,<3419-3419>,copilot,False
+<nasa_residential_zone> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<there>,<3277-3277>,copilot,False
+	<there>,<3287-3287>,copilot,False
+<street2> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the road>,<426-427>,copilot,False
+	<the road>,<436-437>,copilot,False
+<stop_sign_2> appear_num:2 expression_num:2 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<1093-1095>,copilot,True
+	<the first stop sign>,<1912-1915>,copilot,True
+<museum> appear_num:2 expression_num:1 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<a museum>,<228-229>,copilot,True
+	<a museum>,<1044-1045>,copilot,True
+<intersection41> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<1780-1780>,copilot,False
+	<here>,<3307-3307>,copilot,False
+<stop_sign_14> appear_num:2 expression_num:2 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this stop sign>,<3251-3253>,copilot,True
+	<the stop sign>,<3265-3267>,copilot,True
+<stop_sign_17> appear_num:2 expression_num:2 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next stop sign>,<1957-1960>,copilot,True
+	<this stop sign>,<1974-1976>,copilot,True
+<crown_startup_funds_parking> appear_num:2 expression_num:1 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the parking lot>,<2684-2686>,copilot,True
+	<the parking lot>,<2697-2699>,copilot,True
+<ordering_window> appear_num:2 expression_num:2 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the window>,<1284-1286>,copilot,True
+	<the drivethrough window>,<1287-1289>,copilot,True
+<intersection72> appear_num:2 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<1270-1270>,copilot,False
+	<here>,<1274-1274>,driver,False
+<barracks_wrong0> appear_num:2 expression_num:2 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this>,<2081-2081>,copilot,False
+	<the army barracks>,<2083-2085>,copilot,True
+<stop_sign_31> appear_num:2 expression_num:2 omit:2 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<the stop sign>,<639-641>,copilot,True
+	<stop sign>,<647-648>,driver,True
+<intersection15> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<496-496>,copilot,False
+	<this intersection>,<660-661>,copilot,False
+<parking_lot_20> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this parking lot>,<1452-1454>,copilot,True
+<commissary> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<a commissary>,<225-226>,copilot,True
+<driveway2> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<thats>,<3423-3423>,copilot,False
+<road31> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<1755-1755>,driver,False
+<intersection38> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<2989-2989>,driver,False
+<intersection31> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<2947-2947>,copilot,False
+<bowling_alley> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<a bowling alley>,<219-221>,copilot,True
+<parking_spot55> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<736-736>,driver,False
+<gas_lane2> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<957-957>,driver,False
+<intersection23> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this intersection>,<2706-2708>,copilot,False
+<intersection22> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this intersection>,<2930-2931>,copilot,False
+<intersection24> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next intersection>,<2715-2717>,copilot,False
+<road43> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<1078-1078>,copilot,False
+<street1> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this road>,<1085-1086>,copilot,False
+<street4> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the road>,<2917-2918>,copilot,False
+<parking_spot72> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<2378-2378>,driver,False
+<intersection3> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<3401-3401>,copilot,False
+<intersection105> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<2252-2252>,copilot,False
+<stop_sign_8> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the first stop sign>,<876-879>,copilot,True
+<stop_sign_3> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next stop sign>,<883-886>,copilot,True
+<stop_sign_0> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<2970-2972>,copilot,True
+<stop_sign_7> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next stop sign>,<671-674>,copilot,True
+<stop_sign_5> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the next stop sign>,<2286-2289>,copilot,True
+<nanotech_antenna> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the tower>,<2729-2730>,copilot,False
+<intersection40> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<2234-2234>,driver,False
+<intersection43> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<3021-3021>,copilot,False
+<stop_sign_18> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this stop sign>,<1231-1233>,copilot,True
+<stop_sign_16> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<1248-1250>,copilot,True
+<expressway> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<that road>,<1014-1015>,copilot,False
+<417_macoon> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<my house>,<2425-2426>,copilot,False
+<intersection78> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<there>,<1332-1332>,copilot,False
+<parking_spot117> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<here>,<544-544>,driver,False
+<intersection64> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<2904-2904>,copilot,False
+<intersection60> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<2326-2326>,copilot,False
+<parking_lot_aisle39> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the road>,<2319-2320>,copilot,False
+<stop_sign_26> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<1484-1486>,copilot,True
+<stop_sign_33> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<2941-2943>,copilot,True
+<white_pickup_perpetually_parked_at_mcdonalds> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the truck>,<1356-1357>,copilot,False
+<intersection13> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<here>,<914-914>,copilot,False
+<intersection11> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<end of the road>,<434-437>,copilot,False
+<intersection14> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the end of the road>,<421-427>,copilot,False
+<swimming_pool> appear_num:1 expression_num:1 omit:1 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
+	<swimming pool>,<3350-3351>,driver,True
+<stop_sign_20> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<the stop sign>,<2215-2217>,copilot,True
+<stop_sign_22> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
+	<this stop sign>,<1824-1830>,copilot,True

@@ -1,0 +1,429 @@
+<Set Destination(museum)_0>
+	museum,the museum,driver,223-224,True
+<\Set Destination(museum)>,1,0
+<Leave(hotel_parking_lot)_1>
+	hotel_parking_lot,the parking lot,copilot,231-234,True
+<\Leave(hotel>,1,0
+<Go To(driveway0)_2>
+	parking_lot_aisle2,this way,driver,245-247,True
+	parking_lot_aisle2,this way,copilot,249-250,True
+<\Go To(driveway0)>,1,0
+<Go To(driveway3)_3>
+<\Go To(driveway3)>,0,0
+<Go To(road16)_4>
+	intersection3,here,copilot,286-286,True
+<\Go To(road16)>,1,0
+<Go To(road14)_5>
+	yield_sign_0,the yield sign,driver,319-321,True
+<\Go To(road14)>,1,0
+<Go To(road19)_6>
+	street2,this road,copilot,330-331,True
+	intersection8,here,driver,365-365,True
+<\Go To(road19)>,2,0
+<Go To(road180)_7>
+	stop_sign_64,the next stop sign,driver,369-372,True
+	driver,you,copilot,376-376,True
+	intersection10,the next road intersection,copilot,383-386,True
+	intersection10,here,driver,391-391,True
+	copilot,you,driver,392-392,True
+	intersection10,here,copilot,396-396,True
+<\Go To(road180)>,4,2
+<Go To(museum_parking_lot)_8>
+	driver,you,copilot,424-424,True
+	intersection11,here,copilot,429-429,True
+	intersection11,here,driver,432-432,True
+<\Go To(museum>,2,0
+<Stop At(museum_parking_lot)_9>
+	driver,you,copilot,440-440,True
+	museum_parking_lot,here,copilot,444-444,True
+<\Stop At(museum>,2,0
+<Set Destination(post_office)_10>
+	driver,i,driver,499-499,True
+	post_office,the post office,driver,508-510,True
+	driver,you,copilot,558-558,True
+	post_office,the post office,copilot,566-568,True
+<\Set Destination(post>,2,2
+<Leave(museum_parking_lot)_11>
+	museum_parking_lot,the parking lot,copilot,575-577,True
+<\Leave(museum>,1,0
+<Leave(parking_spot43)_12>
+	driver,you,copilot,579-579,True
+	parking_spot43,this parking spot,copilot,584-586,True
+<\Leave(parking>,2,0
+<Go To(intersection12)_13>
+<\Go To(intersection12)>,0,0
+<Go To(road45)_14>
+	intersection12,here,copilot,594-594,True
+<\Go To(road45)>,1,0
+<Go To(road47)_15>
+	intersection15,here,driver,600-600,True
+	intersection15,here,copilot,604-604,True
+<\Go To(road47)>,1,0
+<Go To(road55)_16>
+<\Go To(road55)>,0,0
+<Go To(road56)_17>
+	intersection18,this,copilot,613-613,True
+<\Go To(road56)>,1,0
+<Go To(road58)_18>
+	stop_sign_7,the next stop sign,copilot,618-621,True
+	road58,here,driver,631-631,True
+	intersection19,here,copilot,640-640,True
+<\Go To(road58)>,3,0
+<Go To(parking_lot_aisle33)_19>
+	driver,you,copilot,646-646,True
+	Other,the fire hydrant,copilot,654-656,True
+<\Go To(parking>,2,0
+<Stop At(post_office_parking_lot)_20>
+	driver,you,copilot,658-658,True
+	post_office_parking_lot,here,copilot,661-661,True
+<\Stop At(post>,2,0
+<Set Destination(gym)_21>
+	driver,i,driver,688-688,True
+	gym,the gym,driver,693-694,True
+	driver,my,driver,698-698,True
+	gym,the gym,copilot,706-707,True
+<\Set Destination(gym)>,2,2
+<Leave(post_office_parking_lot)_22>
+	post_office_parking_lot,the parking lot,copilot,712-714,True
+<\Leave(post>,1,0
+<Go To(parking_lot_aisle36)_23>
+	driver,youll,copilot,717-717,True
+	parking_lot_aisle36,that way,copilot,721-722,True
+<\Go To(parking>,2,0
+<Go To(driveway7)_24>
+	driveway7,here,driver,765-765,True
+	driveway7,here,copilot,768-768,True
+<\Go To(driveway7)>,1,0
+<Go To(road59)_25>
+<\Go To(road59)>,0,0
+<Set Destination(gas_station)_26>
+	driver,you,copilot,806-806,True
+	gas_station,the gas stor,copilot,811-813,True
+	gas_station,gas station,copilot,814-815,True
+	driver,you,copilot,817-817,True
+	gym,the gym,copilot,820-821,True
+<\Set Destination(gas>,3,2
+<Go To(road170)_27>
+	intersection19,this intersection,copilot,830-831,True
+<\Go To(road170)>,1,0
+<Go To(road171)_28>
+	intersection8,here,copilot,835-835,True
+<\Go To(road171)>,1,0
+<Go To(road38)_29>
+	intersection41,this intersection,copilot,842-843,True
+<\Go To(road38)>,1,0
+<Go To(gas_station_driveway)_30>
+	driver,you,copilot,862-862,True
+	gas_station,the gas station,copilot,867-869,True
+	Other,those  the fire hydrant,copilot,872-876,True
+	Other,it,copilot,880-880,True
+	intersection13,here,copilot,883-883,True
+	intersection13,here,driver,886-886,True
+<\Go To(gas>,4,0
+<Stop At(gas_station_driveway)_31>
+	driver,you,copilot,899-899,True
+	gas_station_driveway,the gas,copilot,905-906,True
+<\Stop At(gas>,2,0
+<Set Destination(gym)_33>
+	driver,you,copilot,929-929,True
+	gym,the gym,copilot,935-936,True
+	gas_station,here,copilot,938-938,True
+	gym,the gym,driver,945-946,True
+<\Set Destination(gym)>,3,2
+<Go To(intersection13)_34>
+	gas_station_driveway,here,driver,953-953,True
+	driver,i,driver,956-956,True
+	gas_lane0,this one,driver,960-961,True
+	driver,i,driver,963-963,True
+<\Go To(intersection13)>,3,2
+<Go To(road41)_36>
+	intersection13,here,copilot,975-975,True
+<\Go To(road41)>,1,0
+<Go To(road37)_37>
+	intersection41,this intersection,copilot,979-980,True
+<\Go To(road37)>,1,0
+<Stop At(parking_lot_9)_38>
+	driver,you,copilot,1026-1026,True
+	parking_lot_aisle66,here,copilot,1033-1033,True
+	parking_lot_aisle66,here,driver,1035-1035,True
+	driver,you,copilot,1038-1038,True
+	parking_lot_9,here,copilot,1045-1045,True
+<\Stop At(parking>,3,2
+<Set Destination(mcdonalds)_40>
+	driver,i,driver,1088-1088,True
+	driver,i,driver,1090-1090,True
+	mcdonalds,mcdonalds,driver,1094-1094,True
+	mcdonalds,mcdonalds,copilot,1116-1116,True
+<\Set Destination(mcdonalds)>,2,0
+<Leave(parking_lot_9)_41>
+<\Leave(parking>,0,0
+<Go To(parking_lot_aisle65)_42>
+	driver,you,copilot,1122-1122,True
+	parking_lot_aisle65,this,driver,1128-1128,True
+	parking_lot_aisle65,this way,driver,1132-1133,True
+<\Go To(parking>,2,0
+<Go To(parking_lot_aisle64)_43>
+	parking_lot_aisle64,here,copilot,1175-1175,True
+	parking_lot_aisle64,here,driver,1178-1178,True
+<\Go To(parking>,1,0
+<Go To(road34)_44>
+	driver,you,copilot,1205-1205,True
+	intersection40,here,copilot,1211-1211,True
+<\Go To(road34)>,2,0
+<Go To(road28)_45>
+	driver,you,copilot,1253-1253,True
+	intersection41,here,copilot,1259-1259,True
+<\Go To(road28)>,2,0
+<Go To(road153)_46>
+	driver,you,copilot,1308-1308,True
+	intersection38,here,copilot,1314-1314,True
+<\Go To(road153)>,2,0
+<Go To(driveway16)_47>
+	intersection72,here,copilot,1320-1320,True
+<\Go To(driveway16)>,1,0
+<Go To(driveway12)_48>
+	driver,you,copilot,1322-1322,True
+	drivethrough_of_mcdonalds,the drivethrough,copilot,1327-1328,True
+	solar_panel,this small trailer,copilot,1330-1332,True
+	driveway15,here,driver,1335-1335,True
+	driver,you,copilot,1338-1338,True
+<\Go To(driveway12)>,4,4
+<Go To(intersection78)_49>
+<\Go To(intersection78)>,0,0
+<Go To(driveway14)_50>
+	bush1,the bush,copilot,1380-1381,True
+	bush1,the bush,copilot,1388-1389,True
+	bush0,it,driver,1393-1393,True
+	bush1,that one,driver,1395-1396,True
+<\Go To(driveway14)>,2,2
+<Go To(driveway15)_51>
+<\Go To(driveway15)>,0,0
+<Stop At(parking_spot102)_52>
+	white_pickup_perpetually_parked_at_mcdonalds,the pick up truck,copilot,1409-1413,True
+<\Stop At(parking>,1,0
+<Set Destination(hotel)_53>
+	hotel,im the hotel,driver,1437-1474,True
+	driver,i,driver,1467-1467,True
+<\Set Destination(hotel)>,2,2
+<Leave(parking_spot102)_54>
+	parking_spot102,here,copilot,1481-1481,True
+<\Leave(parking>,1,0
+<Go To(intersection72)_55>
+<\Go To(intersection72)>,0,0
+<Go To(road153)_56>
+	road73,here,copilot,1490-1490,True
+	intersection72,the road,copilot,1492-1493,True
+<\Go To(road153)>,2,0
+<Go To(road128)_57>
+	intersection38,the intersection,copilot,1498-1499,True
+<\Go To(road128)>,1,0
+<Go To(road37)_58>
+	intersection41,here,copilot,1503-1503,True
+<\Go To(road37)>,1,0
+<Go To(road32)_59>
+<\Go To(road32)>,0,0
+<Go To(driveway3)_60>
+	intersection3,here,copilot,1568-1568,True
+	intersection3,here,driver,1570-1570,True
+<\Go To(driveway3)>,1,0
+<Go To(parking_lot_aisle1)_61>
+	Other,the loop,driver,1578-1579,True
+	Other,the loop,copilot,1580-1581,True
+<\Go To(parking>,1,0
+<Stop At(hotel_parking_lot)_62>
+	hotel_parking_lot,here,copilot,1603-1603,True
+<\Stop At(hotel>,1,0
+<Set Destination(barracks)_63>
+	Set,we,copilot,1697-1697,True
+	phil_collison,him,driver,1707-1707,True
+	barracks,the army barracks,driver,1710-1712,True
+<\Set Destination(barracks)>,3,0
+<Leave(hotel_parking_lot)_64>
+	hotel_parking_lot,the parking lot,copilot,1719-1721,True
+<\Leave(hotel>,1,0
+<Go To(road17)_65>
+	intersection3,here,copilot,1750-1750,True
+<\Go To(road17)>,1,0
+<Go To(road128)_66>
+	intersection41,here,copilot,1863-1863,True
+<\Go To(road128)>,1,0
+<Go To(road130)_67>
+	intersection38,this intersection,copilot,1870-1871,True
+<\Go To(road130)>,1,0
+<Go To(barracks_driveway)_68>
+	driver,you,copilot,1887-1887,True
+	fire_hydrant_by_army_barracks,that red fire hydrant,copilot,1894-1897,True
+<\Go To(barracks>,2,0
+<Stop At(parking_spot106)_69>
+	driver,you,copilot,1901-1901,True
+	barracks,the building,copilot,1909-1910,True
+<\Stop At(parking>,2,0
+<Set Destination(crown_startup_funds)_70>
+	driver,i,driver,1932-1932,True
+	driver,my,driver,1937-1937,True
+	crown_startup_funds,crown startup funds,driver,1940-1942,True
+<\Set Destination(crown>,2,0
+<Leave(parking_spot106)_71>
+	parking_spot106,the parking lot,copilot,1949-1951,True
+<\Leave(parking>,1,0
+<Other()_72>
+	expressway,the freeway,copilot,1954-1955,True
+	expressway,thats,copilot,1957-1957,True
+	crown_startup_funds,there,copilot,1961-1961,True
+<\Other()>,2,0
+<Go To(intersection94)_73>
+<\Go To(intersection94)>,0,0
+<Go To(road133)_74>
+	intersection44,here,copilot,1983-1983,True
+<\Go To(road133)>,1,0
+<Go To(road136)_75>
+	perimeter_road,the freeway,copilot,1987-1988,True
+<\Go To(road136)>,1,0
+<Go To(road138)_76>
+	intersection47,here,copilot,2060-2060,True
+<\Go To(road138)>,1,0
+<Other()_77>
+	crown_startup_funds,the startup funds,copilot,2081-2083,True
+<\Other()>,1,0
+<Go To(road146)_78>
+	intersection37,here,driver,2095-2095,True
+	intersection37,this intersection,copilot,2097-2098,True
+<\Go To(road146)>,1,0
+<Go To(road128)_79>
+	intersection38,here,copilot,2231-2231,True
+<\Go To(road128)>,1,0
+<Go To(road174)_80>
+	intersection41,this intersection,copilot,2236-2237,True
+<\Go To(road174)>,1,0
+<Go To(road170)_81>
+<\Go To(road170)>,0,0
+<Go To(road58)_82>
+	intersection19,the next intersection,copilot,2245-2247,True
+<\Go To(road58)>,1,0
+<Go To(driveway7)_83>
+	driveway7,here,copilot,2304-2304,True
+	intersection21,here,driver,2306-2306,True
+<\Go To(driveway7)>,2,0
+<Go To(crown_startup_funds_parking)_84>
+	parking_lot_22,the parking lot,copilot,2319-2321,True
+	crown_startup_funds_wrong1,that building,copilot,2337-2339,True
+<\Go To(crown>,2,0
+<Go To(parking_lot_aisle46)_85>
+	parking_lot_aisle46,this way,copilot,2344-2345,True
+<\Go To(parking>,1,0
+<Stop At(crown_startup_funds_parking)_86>
+	driver,you,copilot,2348-2348,True
+	crown_startup_funds_parking,there,copilot,2352-2352,True
+<\Stop At(crown>,2,0
+<Set Destination(nanotech)_87>
+	driver,i,driver,2433-2433,True
+	driver,my,driver,2439-2439,True
+	nanotech,nanotech,driver,2443-2443,True
+	copilot,i,copilot,2453-2453,True
+<\Set Destination(nanotech)>,3,0
+<Go To(parking_lot_aisle50)_88>
+	parking_lot_aisle50,this way,copilot,2573-2574,True
+<\Go To(parking>,1,0
+<Set Destination(barracks)_89>
+	driver,i,driver,2621-2621,True
+	driver,i,driver,2635-2635,True
+	barracks,the army barracks,copilot,2642-2644,True
+	barracks,the army barracks,driver,2645-2647,True
+<\Set Destination(barracks)>,2,0
+<Go To(road64)_90>
+	intersection28,here,copilot,2654-2654,True
+<\Go To(road64)>,1,0
+<Go To(road9)_91>
+	road9,this one,driver,2675-2679,True
+	road9,here,copilot,2678-2678,True
+<\Go To(road9)>,1,0
+<Go To(road15)_92>
+<\Go To(road15)>,0,0
+<Go To(road128)_93>
+	intersection41,this one,driver,2746-2747,True
+	intersection41,here,copilot,2750-2750,True
+	stop_sign_0,the stop sign,copilot,2752-2754,True
+<\Go To(road128)>,2,0
+<Go To(road130)_94>
+	intersection38,this,copilot,2766-2766,True
+<\Go To(road130)>,1,0
+<Go To(barracks_driveway)_95>
+	fire_hydrant_by_army_barracks,the fire eng hydrant,copilot,2777-2780,True
+<\Go To(barracks>,1,0
+<Stop At(barracks_parking)_96>
+	driver,you,copilot,2790-2790,True
+	barracks_parking,here,copilot,2793-2793,True
+<\Stop At(barracks>,2,0
+<Set Destination(nanotech)_97>
+	nanotech,the next meeting place,copilot,2820-2827,True
+	driver,my,driver,2825-2825,True
+<\Set Destination(nanotech)>,2,2
+<Other()_98>
+	expressway,the freeway,copilot,2839-2840,True
+<\Other()>,1,0
+<Go To(road133)_99>
+	intersection44,here,copilot,2854-2854,True
+<\Go To(road133)>,1,0
+<Go To(road136)_100>
+	intersection45,there,copilot,2859-2859,True
+<\Go To(road136)>,1,0
+<Go To(road138)_101>
+	intersection47,here,copilot,2956-2956,True
+<\Go To(road138)>,1,0
+<Go To(road147)_102>
+	driver,i,driver,3017-3017,True
+	intersection37,here,copilot,3020-3020,True
+	intersection37,here,copilot,3023-3023,True
+<\Go To(road147)>,2,0
+<Go To(road42)_103>
+<\Go To(road42)>,0,0
+<Go To(road174)_104>
+	driver,you,copilot,3087-3087,True
+	stop_sign_2,the stop sign,copilot,3094-3096,True
+<\Go To(road174)>,2,0
+<Go To(road58)_105>
+	Set,the next two stop signs,copilot,3104-3108,True
+<\Go To(road58)>,1,0
+<Go To(parking_lot_1)_106>
+	parking_lot_1,the same spot,driver,3114-3116,True
+<\Go To(parking>,1,0
+<Go To(driveway7)_107>
+	parking_lot_1,the parking lot,copilot,3130-3132,True
+	Other,the lamp post,copilot,3135-3137,True
+<\Go To(driveway7)>,2,0
+<Stop At(nanotech_parking)_108>
+<\Stop At(nanotech>,0,0
+<Set Destination(hotel)_109>
+	driver,i,driver,3176-3176,True
+	hotel,the hotel,driver,3182-3183,True
+<\Set Destination(hotel)>,2,0
+<Leave(nanotech_parking)_110>
+	nanotech_parking,the parking lot,copilot,3201-3203,True
+<\Leave(nanotech>,1,0
+<Go To(intersection63)_111>
+	intersection63,that way,copilot,3207-3208,True
+<\Go To(intersection63)>,1,0
+<Go To(driveway6)_112>
+	parking_lot_aisle45,the same way,driver,3222-3224,True
+	parking_lot_aisle45,here,driver,3227-3227,True
+	driver,you,copilot,3228-3228,True
+	intersection25,here,copilot,3239-3239,True
+<\Go To(driveway6)>,3,0
+<Go To(road62)_113>
+	intersection22,here,copilot,3260-3260,True
+<\Go To(road62)>,1,0
+<Go To(road9)_114>
+	intersection29,here,copilot,3285-3285,True
+<\Go To(road9)>,1,0
+<Go To(road1)_115>
+<\Go To(road1)>,0,0
+<Go To(driveway3)_116>
+	intersection3,here,copilot,3362-3362,True
+<\Go To(driveway3)>,1,0
+<Stop At(parking_spot1)_117>
+	driver,you,copilot,3373-3373,True
+	driver,you,copilot,3394-3394,True
+<\Stop At(parking>,1,0
+<Other()_118>
+	road58,here,driver,631-631,True
+<\Other()>,1,0

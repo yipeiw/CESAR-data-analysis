@@ -1,0 +1,94 @@
+Set Destination(museum),3,3
+Leave(hotel,1,0
+Other(),0,0
+Go To(road17),2,0
+Go To(road43),1,0
+Go To(intersection42),1,0
+Stop At(museum,0,0
+Stop At(museum,4,4
+Set Destination(post,4,4
+Leave(museum,1,0
+Go To(road45),1,0
+Go To(road47),1,0
+Go To(road58),1,0
+Go To(parking,2,0
+Stop At(post,0,0
+Set Destination(gym),2,2
+Leave(post,1,0
+Set Destination(gas,3,3
+Go To(road59),2,0
+Go To(road170),1,0
+Go To(road171),0,0
+Go To(road38),1,0
+Go To(gas,1,0
+Other(),2,0
+Set Destination(gym),3,3
+Leave(gas,1,0
+Go To(intersection53),1,0
+Go To(road156),0,0
+Go To(road37),2,0
+Stop At(road33),0,0
+Set Destination(mcdonalds),3,0
+Leave(road33),1,0
+Go To(road127),1,0
+Go To(road153),1,0
+Go To(driveway10),0,0
+Go To(driveway11),0,0
+Go To(drivethrough,2,0
+Go To(driveway13),0,0
+Go To(driveway14),0,0
+Go To(driveway15),0,0
+Stop At(drivethrough,2,2
+Set Destination(hotel),3,2
+Go To(road153),1,0
+Go To(road128),0,0
+Go To(road37),1,0
+Go To(driveway3),1,0
+Set Destination(barracks),3,3
+Go To(intersection108),0,0
+Go To(road17),1,0
+Go To(road128),1,0
+Go To(road130),0,0
+Stop At(barracks,2,0
+Set Destination(crown,4,4
+Go To(road133),1,0
+Other(),2,0
+Go To(road136),1,0
+Go To(road138),1,0
+Go To(road146),1,0
+Go To(road128),1,0
+Go To(road174),0,0
+Go To(road170),1,0
+Go To(road58),0,0
+Go To(driveway7),2,2
+Go To(parking,2,0
+Stop At(crown,1,0
+Set Destination(barracks),4,4
+Leave(crown,1,0
+Go To(parking,0,0
+Go To(parking,0,0
+Go To(parking,0,0
+Go To(road64),1,0
+Go To(road9),0,0
+Go To(road16),2,0
+Go To(road34),0,0
+Go To(road128),1,0
+Go To(road130),1,0
+Go To(barracks,2,0
+Go To(road132),1,0
+Set Destination(nanotech),4,4
+Go To(road127),1,0
+Go To(road127),1,0
+Go To(road32),1,0
+Go To(road17),1,0
+Go To(road14),0,0
+Go To(road170),1,0
+Go To(road58),1,0
+Go To(driveway7),3,0
+Set Destination(hotel),4,4
+Leave(nanotech,3,0
+Go To(parking,0,0
+Go To(parking,0,0
+Go To(road64),1,0
+Go To(driveway3),2,0
+Go To(road33),1,0

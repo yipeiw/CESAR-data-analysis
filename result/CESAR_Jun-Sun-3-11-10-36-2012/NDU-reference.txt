@@ -1,0 +1,110 @@
+Set Destination(hangar1),4,2
+Leave(hotel,1,0
+Go To(street2),1,0
+Go To(driveway0),2,2
+Other(),1,0
+Go To(road16),0,0
+Go To(road14),1,0
+Go To(intersection14),1,0
+Go To(road22),0,0
+Go To(road180),1,0
+Go To(museum,1,0
+Go To(road45),1,0
+Go To(road47),1,0
+Stop At(road55),2,0
+Set Destination(post,1,0
+Go To(road57),2,0
+Go To(road58),1,0
+Go To(post,1,0
+Go To(parking,1,0
+Stop At(post,1,0
+Set Destination(gym),1,0
+Go To(parking,1,0
+Go To(driveway7),1,0
+Set Destination(gas,2,0
+Go To(road59),1,0
+Go To(road171),0,0
+Go To(road38),4,4
+Other(),1,0
+Go To(gas,2,0
+Stop At(gas,1,0
+Set Destination(gym),1,0
+Go To(intersection87),1,0
+Go To(intersection86),0,0
+Go To(road42),1,0
+Go To(road37),2,0
+Stop At(parking,4,2
+Set Destination(mcdonalds),2,2
+Leave(parking,3,0
+Go To(road33),2,0
+Go To(road127),1,0
+Go To(road153),0,0
+Go To(driveway16),4,0
+Go To(driveway12),0,0
+Go To(drivethrough,2,0
+Go To(driveway13),0,0
+Go To(driveway14),0,0
+Stop At(drivethrough,1,0
+Set Destination(hotel),4,3
+Go To(road153),2,2
+Go To(road127),0,0
+Go To(road33),1,0
+Go To(road32),1,0
+Go To(driveway3),4,0
+Go To(parking,1,0
+Stop At(hotel,1,0
+Stop At(parking,2,0
+Set Destination(crown,2,0
+Set Destination(barracks),5,4
+Leave(hotel,1,0
+Other(),1,0
+Go To(road17),2,0
+Other(),2,0
+Go To(road128),1,0
+Go To(road130),0,0
+Go To(barracks,1,0
+Other(),2,0
+Go To(road133),1,0
+Go To(road136),1,0
+Go To(road138),2,0
+Go To(road146),2,0
+Go To(road128),1,0
+Go To(intersection69),2,2
+Go To(driveway7),2,0
+Go To(parking,0,0
+Stop At(crown,2,0
+Set Destination(nanotech),3,3
+Leave(parking,3,0
+Other(),0,0
+Go To(road63),1,0
+Other(),3,0
+Go To(intersection69),1,0
+Go To(road60),0,0
+Set Destination(barracks),1,0
+Go To(road60),1,0
+Go To(road130),2,0
+Set Destination(nanotech),3,2
+Other(),2,0
+Go To(road133),1,0
+Go To(road136),1,0
+Go To(road138),1,0
+Go To(road157),1,0
+Go To(road44),2,0
+Go To(road47),1,0
+Go To(road58),3,0
+Go To(driveway7),1,0
+Stop At(nanotech,2,0
+Set Destination(hotel),3,3
+Go To(intersection63),2,0
+Go To(parking,0,0
+Go To(driveway6),4,2
+Other(),1,0
+Go To(road62),0,0
+Other(),1,0
+Go To(road9),1,0
+Go To(road1),1,0
+Go To(driveway3),1,0
+Stop At(parking,1,0
+Other(),2,0
+Go To(intersection8),1,0
+Go To(road152),0,0
