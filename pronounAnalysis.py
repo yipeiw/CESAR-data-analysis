@@ -20,6 +20,9 @@ pronoun_list = pronoun.LoadPronoun(pronounfile)
 surface_info = Loader.LoadSurfaceLayer(surfacefile)
 
 singles = 0
+NDU = 0
+NDUsingles = 0
+
 histogram = {}
 for ob, expressions in surface_info.items():
 	total = len(expressions)
@@ -29,6 +32,10 @@ for ob, expressions in surface_info.items():
 			pronoun_num += 1
 	if pronoun_num==total:
 		singles += 1
+	if lb_name.find('Building')!=-1 or lb_name.find('Road')!=-1 or lb_name.find('Traffic')!=-1:
+		NDU += 1
+		if pronoun_num==total:
+                	NDUsingles += 1
 	histogram[(ob, lb_name, lb_gesture)]=(total, pronoun_num)
 
 fout = open(outputfile, 'w')
@@ -37,3 +44,6 @@ for obInfo, info in histogram.items():
 	total, pronouns = info
 	fout.write("%s,%s,%s,%s\n" % (ob, total, pronouns, total-pronouns))
 fout.close()
+
+print "singontons %s, total %s" % (singles, len(surface_info.keys()))
+print "NDU singontons %s, total %s" % (NDUsingles, NDU)
