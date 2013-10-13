@@ -25,8 +25,6 @@ for ob, expressions in surface_info.items():
 	total = len(expressions)
 	pronoun_num = 0
 	for words, pos_list, spk, lb_name, lb_gesture in expressions:
-		if words=="":
-			print pos_list, lb_name
 		if pronoun.IsPronoun(words, pronoun_list, 'dict') > 0:
 			pronoun_num += 1
 	if pronoun_num==total:

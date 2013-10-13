@@ -1,4 +1,4 @@
-<driver> appear_num:175 expression_num:13 omit:0 by_driver_appear:102 by_driver_expression:9 by_driver_omit:0
+<driver> appear_num:174 expression_num:12 omit:0 by_driver_appear:101 by_driver_expression:8 by_driver_omit:0
 	<my>,<27-27>,driver,False,Person or Vehicle (No Gesture)
 	<I've>,<34-34>,driver,False,Person or Vehicle (No Gesture)
 	<my>,<38-38>,driver,False,Person or Vehicle (No Gesture)
@@ -80,7 +80,6 @@
 	<me>,<1728-1728>,driver,False,Person or Vehicle (No Gesture)
 	<I'd>,<1731-1731>,driver,False,Person or Vehicle (No Gesture)
 	<I'd>,<1742-1742>,driver,False,Person or Vehicle (No Gesture)
-	<>,<1754-1754>,driver,False,Person or Vehicle (No Gesture)
 	<I'd>,<1784-1784>,driver,False,Person or Vehicle (No Gesture)
 	<I>,<1789-1789>,driver,False,Person or Vehicle (No Gesture)
 	<my>,<1793-1793>,driver,False,Person or Vehicle (No Gesture)

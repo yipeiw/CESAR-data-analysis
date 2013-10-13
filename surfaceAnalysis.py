@@ -78,6 +78,7 @@ for ai in annotations:
 	idx_list =[int(word.name.split('_')[1]) for word in ai.words]
 	object_text_list=[Normalize(word) for word in ai.object_parameter.split('_')]
 	omitted = IsAppear(object_text_list, word_text.split())	
-	objectSurface[ai.object_parameter] += [ (word_text, omitted, idx_list, speaker, ai.label)]
+	if word_text != "":
+		objectSurface[ai.object_parameter] += [ (word_text, omitted, idx_list, speaker, ai.label)]
 
 output(outputPath, objectSurface)
