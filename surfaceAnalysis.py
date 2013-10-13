@@ -1,12 +1,15 @@
 #!/usr/bin/env python
 
 import sys
-sys.path.append('/home/yipeiw/Documents/Research-2013fall/Tool/AnnotationAnalysis')
+sys.path.append('/home/yipeiw/Tool/iwsds_analysis_tools')
 import os.path as path
 from read_write_annotation_files import *
 
 from collections import defaultdict
 import re
+sys.path.append('/home/yipeiw/Documents/util')
+import clean
+import TextProcess
 
 #objectfile='/home/yipeiw/Documents/Research-2013fall/sample/object-reference.xml'
 #outputPath='/home/yipeiw/Documents/Research-2013fall/LabelAnalysis/result'
@@ -33,7 +36,7 @@ def Analyze(surface_list):
        	omitNum = 0
         appearHuman = 0
 
-	for wordText, omitted, ids, speaker in surface_list:
+	for wordText, omitted, ids, speaker, lb in surface_list:
 		expressionDict[wordText]=True
 		if speaker=='driver':
 			appearHuman += 1
@@ -50,37 +53,31 @@ def Analyze(surface_list):
 
 
 def output(outputPath, objectSurface):
-	Surface = path.join(outputPath, 'Surface.txt')
 	analysisfile = path.join(outputPath, 'surfaceLayer.txt')
 	f1 = open(analysisfile, 'w')
-	f2 = open(Surface, 'w')
 	for ob, surface_list in sorted(objectSurface.items(), key=lambda item:len(item[1]), reverse=True):
 		Appear, Expression, Omit = Analyze(surface_list)
 
 		f1.write("<%s> appear_num:%s expression_num:%s omit:%s by_driver_appear:%s by_driver_expression:%s by_driver_omit:%s\n" % (ob, Appear[0], Expression[0], Omit[0], Appear[1], Expression[1], Omit[1]))
-		f2.write("%s,%s,%s,%s,%s,%s,%s\n" % (ob, Appear[0], Expression[0], Omit[0], Appear[1], Expression[1], Omit[1]))
-		for wordText, omitted, ids, speaker in surface_list:
-			f1.write("	<%s>,<%s-%s>,%s,%s\n" % (wordText, min(ids), max(ids), speaker, omitted))
+		for wordText, omitted, ids, speaker, label in surface_list:
+			f1.write("	<%s>,<%s-%s>,%s,%s,%s\n" % (wordText, min(ids), max(ids), speaker, omitted, label))
 			
 	f1.close()
-	f2.close()
 
 
 words, annotations, notes = read_annotation_file(objectfile)
+annotations = clean.PostProcessAnnotation(annotations)
 
 objectSurface = defaultdict(list)
 
 for ai in annotations:
 	wordlist = []
 	speaker = ai.words[0].speaker
-	for word in ai.words:
-		idx = int(word.name.split('_')[1])
 
-		wordlist.append( (idx, Normalize(word.text)) )
-	word_text_list = [text for idx, text in sorted(wordlist, key=lambda item:item[0])]
-	idx_list = [idx for idx, text in sorted(wordlist, key=lambda item:item[0])]
+	word_text = " ".join([TextProcess.Denoise(word.text) for word in ai.words])
+	idx_list =[int(word.name.split('_')[1]) for word in ai.words]
 	object_text_list=[Normalize(word) for word in ai.object_parameter.split('_')]
-	omitted = IsAppear(object_text_list, word_text_list)	
-	objectSurface[ai.object_parameter] += [(" ".join(word_text_list).strip(), omitted, idx_list, speaker)]
+	omitted = IsAppear(object_text_list, word_text.split())	
+	objectSurface[ai.object_parameter] += [ (word_text, omitted, idx_list, speaker, ai.label)]
 
 output(outputPath, objectSurface)

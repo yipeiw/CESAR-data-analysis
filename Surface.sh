@@ -1,11 +1,11 @@
 #!/bin/bash
 
-root=/home/yipeiw/Documents/Research-2013fall
+root=/home/yipeiw/Documents
 
-tool=$root/LabelAnalysis/surfaceAnalysis.py
+tool=$root/analysis/CESAR-data-analysis/surfaceAnalysis.py
 
-dataPath=$root/CESAR_data/annotated
-outPath=$root/LabelAnalysis/result
+dataPath=$root/data/CESAR
+outPath=$root/analysis/CESAR-data-analysis/result
 
 for sub in $dataPath/*;
 do

@@ -1,812 +1,812 @@
 <driver> appear_num:227 expression_num:12 omit:0 by_driver_appear:68 by_driver_expression:8 by_driver_omit:0
-	<your>,<4-4>,copilot,False
-	<you>,<11-11>,copilot,False
-	<you>,<24-24>,copilot,False
-	<you>,<35-35>,copilot,False
-	<your>,<45-45>,copilot,False
-	<you>,<50-50>,copilot,False
-	<yours>,<55-55>,copilot,False
-	<you>,<71-71>,copilot,False
-	<you>,<93-93>,copilot,False
-	<i>,<122-122>,driver,False
-	<your>,<135-135>,copilot,False
-	<you>,<139-139>,copilot,False
-	<you>,<145-145>,copilot,False
-	<your>,<151-151>,copilot,False
-	<you>,<168-168>,copilot,False
-	<you>,<181-181>,copilot,False
-	<you>,<190-190>,copilot,False
-	<you>,<195-195>,copilot,False
-	<you>,<214-214>,copilot,False
-	<you>,<219-219>,copilot,False
-	<you>,<226-226>,copilot,False
-	<you>,<240-240>,copilot,False
-	<you>,<251-251>,copilot,False
-	<you>,<261-261>,copilot,False
-	<you>,<276-276>,copilot,False
-	<you>,<287-287>,copilot,False
-	<you>,<290-290>,copilot,False
-	<you>,<300-300>,copilot,False
-	<you>,<315-315>,copilot,False
-	<your>,<334-334>,copilot,False
-	<you>,<348-348>,copilot,False
-	<you>,<350-350>,copilot,False
-	<you>,<355-355>,copilot,False
-	<i>,<423-423>,driver,False
-	<you>,<432-432>,copilot,False
-	<you>,<456-456>,copilot,False
-	<you>,<472-472>,copilot,False
-	<you>,<485-485>,copilot,False
-	<you>,<489-489>,copilot,False
-	<you>,<513-513>,copilot,False
-	<you>,<520-520>,copilot,False
-	<you>,<538-538>,copilot,False
-	<you>,<566-566>,copilot,False
-	<you>,<586-586>,copilot,False
-	<you>,<614-614>,copilot,False
-	<i>,<625-625>,driver,False
-	<you>,<655-655>,copilot,False
-	<you>,<663-663>,copilot,False
-	<you>,<669-669>,copilot,False
-	<you>,<672-672>,copilot,False
-	<you>,<685-685>,copilot,False
-	<you>,<766-766>,copilot,False
-	<im>,<776-776>,driver,False
-	<i>,<793-793>,driver,False
-	<you>,<838-838>,copilot,False
-	<you>,<855-855>,copilot,False
-	<you>,<867-867>,copilot,False
-	<you>,<913-913>,copilot,False
-	<you>,<920-920>,copilot,False
-	<you>,<955-955>,copilot,False
-	<you>,<967-967>,copilot,False
-	<you>,<987-987>,copilot,False
-	<you>,<996-996>,copilot,False
-	<you>,<1001-1001>,copilot,False
-	<you>,<1015-1015>,copilot,False
-	<you>,<1032-1032>,copilot,False
-	<you>,<1034-1034>,copilot,False
-	<you>,<1048-1048>,copilot,False
-	<you>,<1086-1086>,copilot,False
-	<i>,<1102-1102>,driver,False
-	<ive>,<1103-1103>,driver,False
-	<my>,<1118-1118>,driver,False
-	<i>,<1129-1129>,driver,False
-	<i>,<1145-1145>,driver,False
-	<i>,<1155-1155>,driver,False
-	<you>,<1174-1174>,copilot,False
-	<i>,<1187-1187>,driver,False
-	<i>,<1189-1189>,driver,False
-	<you>,<1247-1247>,copilot,False
-	<i>,<1258-1258>,driver,False
-	<you>,<1267-1267>,copilot,False
-	<you>,<1268-1268>,copilot,False
-	<you>,<1305-1305>,copilot,False
-	<i>,<1320-1320>,driver,False
-	<you>,<1330-1330>,copilot,False
-	<you>,<1342-1342>,copilot,False
-	<you>,<1361-1361>,copilot,False
-	<i>,<1398-1398>,driver,False
-	<you>,<1405-1405>,copilot,False
-	<you>,<1444-1444>,copilot,False
-	<i>,<1477-1477>,driver,False
-	<you>,<1538-1538>,copilot,False
-	<you>,<1553-1553>,copilot,False
-	<you>,<1640-1640>,copilot,False
-	<im>,<1644-1644>,driver,False
-	<you>,<1659-1659>,copilot,False
-	<you>,<1742-1742>,copilot,False
-	<you>,<1849-1849>,copilot,False
-	<i>,<1859-1859>,driver,False
-	<you>,<1866-1866>,copilot,False
-	<you>,<1902-1902>,copilot,False
-	<you>,<1937-1937>,copilot,False
-	<ive>,<1944-1944>,driver,False
-	<you>,<1968-1968>,copilot,False
-	<you>,<1988-1988>,copilot,False
-	<you>,<1996-1996>,copilot,False
-	<i>,<2002-2002>,driver,False
-	<i>,<2010-2010>,driver,False
-	<i>,<2018-2018>,driver,False
-	<you>,<2030-2030>,copilot,False
-	<i>,<2085-2085>,driver,False
-	<you>,<2127-2127>,copilot,False
-	<i>,<2136-2136>,driver,False
-	<ill>,<2142-2142>,driver,False
-	<you>,<2155-2155>,copilot,False
-	<you>,<2164-2164>,copilot,False
-	<i>,<2172-2172>,driver,False
-	<i>,<2214-2214>,driver,False
-	<you>,<2291-2291>,copilot,False
-	<ill>,<2398-2398>,driver,False
-	<youll>,<2438-2438>,copilot,False
-	<you>,<2453-2453>,copilot,False
-	<you>,<2459-2459>,copilot,False
-	<ill>,<2479-2479>,driver,False
-	<you>,<2487-2487>,copilot,False
-	<you>,<2526-2526>,copilot,False
-	<you>,<2529-2529>,copilot,False
-	<you>,<2540-2540>,copilot,False
-	<you>,<2542-2542>,copilot,False
-	<we>,<2551-2551>,copilot,False
-	<you>,<2631-2631>,copilot,False
-	<you>,<2649-2649>,copilot,False
-	<me>,<2654-2654>,driver,False
-	<i>,<2671-2671>,driver,False
-	<you>,<2690-2690>,copilot,False
-	<me>,<2716-2716>,driver,False
-	<i>,<2719-2719>,driver,False
-	<i>,<2814-2814>,driver,False
-	<you>,<2842-2842>,copilot,False
-	<you>,<2851-2851>,copilot,False
-	<you>,<2889-2889>,copilot,False
-	<you>,<2895-2895>,copilot,False
-	<you>,<2966-2966>,copilot,False
-	<your>,<2971-2971>,copilot,False
-	<i>,<2983-2983>,driver,False
-	<i>,<2985-2985>,driver,False
-	<i>,<2991-2991>,driver,False
-	<you>,<3004-3004>,copilot,False
-	<you>,<3032-3032>,copilot,False
-	<you>,<3053-3053>,copilot,False
-	<you>,<3069-3069>,copilot,False
-	<you>,<3076-3076>,copilot,False
-	<i>,<3088-3088>,driver,False
-	<you>,<3093-3093>,copilot,False
-	<you>,<3098-3098>,copilot,False
-	<ill>,<3110-3110>,driver,False
-	<ill>,<3111-3111>,driver,False
-	<im>,<3116-3116>,driver,False
-	<i>,<3173-3173>,driver,False
-	<ill>,<3187-3187>,driver,False
-	<you>,<3209-3209>,copilot,False
-	<you>,<3240-3240>,copilot,False
-	<you>,<3241-3241>,copilot,False
-	<you>,<3262-3262>,copilot,False
-	<i>,<3268-3268>,driver,False
-	<you>,<3291-3291>,copilot,False
-	<you>,<3306-3306>,copilot,False
-	<your>,<3316-3316>,copilot,False
-	<yours>,<3325-3325>,copilot,False
-	<your>,<3339-3339>,copilot,False
-	<your>,<3363-3363>,copilot,False
-	<you>,<3372-3372>,copilot,False
-	<you>,<3374-3374>,copilot,False
-	<i>,<3403-3403>,driver,False
-	<ill>,<3405-3405>,driver,False
-	<i>,<3414-3414>,driver,False
-	<im>,<3415-3415>,driver,False
-	<you>,<3428-3428>,copilot,False
-	<i>,<3438-3438>,driver,False
-	<you>,<3453-3453>,copilot,False
-	<your>,<3456-3456>,copilot,False
-	<i>,<3467-3467>,driver,False
-	<i>,<3486-3486>,driver,False
-	<i>,<3497-3497>,driver,False
-	<you>,<3541-3541>,copilot,False
-	<i>,<3550-3550>,driver,False
-	<you>,<3563-3563>,copilot,False
-	<me>,<3577-3577>,driver,False
-	<ill>,<3604-3604>,driver,False
-	<im>,<3623-3623>,driver,False
-	<you>,<3667-3667>,copilot,False
-	<you>,<3739-3739>,copilot,False
-	<you>,<3764-3764>,copilot,False
-	<you>,<3786-3786>,copilot,False
-	<you>,<3851-3851>,copilot,False
-	<you>,<3954-3954>,copilot,False
-	<you>,<3969-3969>,copilot,False
-	<you>,<4018-4018>,copilot,False
-	<you>,<4059-4059>,copilot,False
-	<you>,<4067-4067>,copilot,False
-	<you>,<4073-4073>,copilot,False
-	<you>,<4078-4078>,copilot,False
-	<you>,<4081-4081>,copilot,False
-	<you>,<4086-4086>,copilot,False
-	<you>,<4151-4151>,copilot,False
-	<youve>,<4180-4180>,driver,False
-	<you>,<4202-4202>,copilot,False
-	<you>,<4209-4209>,copilot,False
-	<me>,<4296-4296>,driver,False
-	<i>,<4358-4358>,driver,False
-	<you>,<4412-4412>,copilot,False
-	<you>,<4431-4431>,copilot,False
-	<you>,<4466-4466>,copilot,False
-	<you>,<4468-4468>,copilot,False
-	<you>,<4478-4478>,copilot,False
-	<you>,<4479-4479>,copilot,False
-	<you>,<4483-4483>,copilot,False
-	<ill>,<4594-4594>,driver,False
-	<me>,<4624-4624>,driver,False
-	<me>,<4626-4626>,driver,False
-	<ill>,<4642-4642>,driver,False
-	<ill>,<4649-4649>,driver,False
-	<you>,<4657-4657>,copilot,False
-	<i>,<4670-4670>,driver,False
-	<i>,<4742-4742>,driver,False
-	<yours>,<3037-3037>,copilot,False
-	<you>,<4686-4686>,driver,False
+	<your>,<4-4>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<11-11>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<24-24>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<35-35>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<45-45>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<50-50>,copilot,False,Person or Vehicle (No Gesture)
+	<yours>,<55-55>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<71-71>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<93-93>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<122-122>,driver,False,Person or Vehicle (No Gesture)
+	<your>,<135-135>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<139-139>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<145-145>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<151-151>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<168-168>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<181-181>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<190-190>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<195-195>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<214-214>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<219-219>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<226-226>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<240-240>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<251-251>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<261-261>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<276-276>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<287-287>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<290-290>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<300-300>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<315-315>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<334-334>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<348-348>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<350-350>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<355-355>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<423-423>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<432-432>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<456-456>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<472-472>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<485-485>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<489-489>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<513-513>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<520-520>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<538-538>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<566-566>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<586-586>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<614-614>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<625-625>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<655-655>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<663-663>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<669-669>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<672-672>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<685-685>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<766-766>,copilot,False,Person or Vehicle (No Gesture)
+	<I'm>,<776-776>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<793-793>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<838-838>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<855-855>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<867-867>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<913-913>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<920-920>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<955-955>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<967-967>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<987-987>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<996-996>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1001-1001>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1015-1015>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1032-1032>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1034-1034>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1048-1048>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1086-1086>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1102-1102>,driver,False,Person or Vehicle (No Gesture)
+	<I've>,<1103-1103>,driver,False,Person or Vehicle (No Gesture)
+	<my>,<1118-1118>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<1129-1129>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<1145-1145>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<1155-1155>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1174-1174>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1187-1187>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<1189-1189>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1247-1247>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1258-1258>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1267-1267>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1268-1268>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1305-1305>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1320-1320>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1330-1330>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1342-1342>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1361-1361>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1398-1398>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1405-1405>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1444-1444>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1477-1477>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1538-1538>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1553-1553>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1640-1640>,copilot,False,Person or Vehicle (No Gesture)
+	<I'm>,<1644-1644>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1659-1659>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1742-1742>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1849-1849>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1859-1859>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1866-1866>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1902-1902>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1937-1937>,copilot,False,Person or Vehicle (No Gesture)
+	<I've>,<1944-1944>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<1968-1968>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1988-1988>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1996-1996>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2002-2002>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2010-2010>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2018-2018>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2030-2030>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2085-2085>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2127-2127>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2136-2136>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<2142-2142>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2155-2155>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2164-2164>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2172-2172>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2214-2214>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2291-2291>,copilot,False,Person or Vehicle (No Gesture)
+	<I'll>,<2398-2398>,driver,False,Person or Vehicle (No Gesture)
+	<you'll>,<2438-2438>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2453-2453>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2459-2459>,copilot,False,Person or Vehicle (No Gesture)
+	<I'll>,<2479-2479>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2487-2487>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2526-2526>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2529-2529>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2540-2540>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2542-2542>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<2551-2551>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2631-2631>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2649-2649>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<2654-2654>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2671-2671>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2690-2690>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<2716-2716>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2719-2719>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2814-2814>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2842-2842>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2851-2851>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2889-2889>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2895-2895>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2966-2966>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<2971-2971>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2983-2983>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2985-2985>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2991-2991>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3004-3004>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3032-3032>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3053-3053>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3069-3069>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3076-3076>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3088-3088>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3093-3093>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3098-3098>,copilot,False,Person or Vehicle (No Gesture)
+	<I'll>,<3110-3110>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<3111-3111>,driver,False,Person or Vehicle (No Gesture)
+	<I'm>,<3116-3116>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<3173-3173>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<3187-3187>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3209-3209>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3240-3240>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3241-3241>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3262-3262>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3268-3268>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3291-3291>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3306-3306>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<3316-3316>,copilot,False,Person or Vehicle (No Gesture)
+	<yours>,<3325-3325>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<3339-3339>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<3363-3363>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3372-3372>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3374-3374>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3403-3403>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<3405-3405>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<3414-3414>,driver,False,Person or Vehicle (No Gesture)
+	<I'm>,<3415-3415>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3428-3428>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3438-3438>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3453-3453>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<3456-3456>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3467-3467>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<3486-3486>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<3497-3497>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3541-3541>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3550-3550>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3563-3563>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<3577-3577>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<3604-3604>,driver,False,Person or Vehicle (No Gesture)
+	<I'm>,<3623-3623>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<3667-3667>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3739-3739>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3764-3764>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3786-3786>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3851-3851>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3954-3954>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<3969-3969>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4018-4018>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4059-4059>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4067-4067>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4073-4073>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4078-4078>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4081-4081>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4086-4086>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4151-4151>,copilot,False,Person or Vehicle (No Gesture)
+	<you've>,<4180-4180>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4202-4202>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4209-4209>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<4296-4296>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<4358-4358>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4412-4412>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4431-4431>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4466-4466>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4468-4468>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4478-4478>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4479-4479>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4483-4483>,copilot,False,Person or Vehicle (No Gesture)
+	<I'll>,<4594-4594>,driver,False,Person or Vehicle (No Gesture)
+	<me>,<4624-4624>,driver,False,Person or Vehicle (No Gesture)
+	<me>,<4626-4626>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<4642-4642>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<4649-4649>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4657-4657>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4670-4670>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<4742-4742>,driver,False,Person or Vehicle (No Gesture)
+	<yours>,<3037-3037>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4686-4686>,driver,False,Person or Vehicle (No Gesture)
 <copilot> appear_num:71 expression_num:8 omit:0 by_driver_appear:20 by_driver_expression:4 by_driver_omit:0
-	<im>,<3-3>,copilot,False
-	<your car assistant>,<4-6>,copilot,False
-	<i>,<21-21>,copilot,False
-	<i>,<132-132>,copilot,False
-	<i>,<137-137>,copilot,False
-	<i>,<149-149>,copilot,False
-	<i>,<178-178>,copilot,False
-	<i>,<186-186>,copilot,False
-	<me>,<216-216>,copilot,False
-	<i>,<273-273>,copilot,False
-	<i>,<401-401>,copilot,False
-	<youre>,<410-410>,driver,False
-	<i>,<610-610>,copilot,False
-	<i>,<651-651>,copilot,False
-	<i>,<666-666>,copilot,False
-	<i>,<683-683>,copilot,False
-	<you>,<811-811>,driver,False
-	<you>,<813-813>,driver,False
-	<you>,<817-817>,driver,False
-	<i>,<829-829>,copilot,False
-	<you>,<843-843>,driver,False
-	<youre>,<844-844>,driver,False
-	<ill>,<909-909>,copilot,False
-	<me>,<911-911>,copilot,False
-	<you>,<943-943>,driver,False
-	<you>,<945-945>,driver,False
-	<me>,<1030-1030>,copilot,False
-	<you>,<1279-1279>,driver,False
-	<me>,<1365-1365>,copilot,False
-	<me>,<1403-1403>,copilot,False
-	<i>,<1475-1475>,copilot,False
-	<i>,<2016-2016>,copilot,False
-	<me>,<2062-2062>,copilot,False
-	<you>,<2204-2204>,driver,False
-	<you>,<2557-2557>,driver,False
-	<you>,<2562-2562>,driver,False
-	<i>,<2645-2645>,copilot,False
-	<you>,<2652-2652>,driver,False
-	<you>,<2818-2818>,driver,False
-	<me>,<2945-2945>,copilot,False
-	<me>,<2948-2948>,copilot,False
-	<me>,<2951-2951>,copilot,False
-	<i>,<2956-2956>,copilot,False
-	<me>,<3002-3002>,copilot,False
-	<me>,<3051-3051>,copilot,False
-	<me>,<3124-3124>,copilot,False
-	<i>,<3198-3198>,copilot,False
-	<i>,<3439-3439>,copilot,False
-	<i>,<3446-3446>,copilot,False
-	<i>,<3673-3673>,copilot,False
-	<i>,<3725-3725>,copilot,False
-	<i>,<3728-3728>,copilot,False
-	<i>,<3734-3734>,copilot,False
-	<i>,<3777-3777>,copilot,False
-	<i>,<3976-3976>,copilot,False
-	<i>,<3985-3985>,copilot,False
-	<me>,<4144-4144>,copilot,False
-	<i>,<4217-4217>,copilot,False
-	<i>,<4310-4310>,copilot,False
-	<i>,<4313-4313>,copilot,False
-	<i>,<4317-4317>,copilot,False
-	<i>,<4326-4326>,copilot,False
-	<you>,<4334-4334>,driver,False
-	<i>,<4378-4378>,copilot,False
-	<your>,<4391-4391>,driver,False
-	<you>,<4538-4538>,driver,False
-	<i>,<4588-4588>,copilot,False
-	<you>,<4600-4600>,driver,False
-	<i>,<4716-4716>,copilot,False
-	<i>,<4688-4688>,driver,False
-	<you>,<4701-4701>,driver,False
-<phil_collison> appear_num:70 expression_num:12 omit:27 by_driver_appear:36 by_driver_expression:7 by_driver_omit:17
-	<a colleague>,<75-76>,copilot,False
-	<that>,<77-77>,copilot,False
-	<he>,<82-82>,copilot,False
-	<phil>,<2218-2218>,driver,True
-	<him>,<2223-2223>,driver,False
-	<him>,<2229-2229>,driver,False
-	<phil>,<2245-2245>,driver,True
-	<phil>,<2246-2246>,copilot,True
-	<phil>,<2252-2252>,driver,True
-	<you>,<2255-2255>,driver,False
-	<you>,<2259-2259>,driver,False
-	<your>,<2262-2262>,driver,False
-	<your>,<2264-2264>,driver,False
-	<you>,<2270-2270>,driver,False
-	<phil>,<2478-2478>,driver,True
-	<you>,<2481-2481>,driver,False
-	<phil>,<2506-2506>,copilot,True
-	<phil>,<3311-3311>,copilot,True
-	<who>,<3313-3313>,copilot,False
-	<the colleague>,<3322-3323>,copilot,False
-	<he>,<3328-3328>,copilot,False
-	<he>,<3332-3332>,copilot,False
-	<he>,<3343-3343>,copilot,False
-	<he>,<3352-3352>,copilot,False
-	<he>,<3369-3369>,copilot,False
-	<him>,<3381-3381>,copilot,False
-	<he>,<3386-3386>,driver,False
-	<he>,<3391-3391>,copilot,False
-	<him>,<3399-3399>,copilot,False
-	<phil>,<3483-3483>,driver,True
-	<phil>,<3512-3512>,driver,True
-	<phil>,<3532-3532>,copilot,True
-	<phil>,<3546-3546>,driver,True
-	<phil>,<3585-3585>,driver,True
-	<phil>,<3616-3616>,driver,True
-	<phil>,<3833-3833>,driver,True
-	<phil>,<3838-3838>,driver,True
-	<phil>,<4043-4043>,copilot,True
-	<he>,<4051-4051>,copilot,False
-	<he>,<4055-4055>,copilot,False
-	<he>,<4061-4061>,copilot,False
-	<him>,<4094-4094>,driver,False
-	<he>,<4096-4096>,driver,False
-	<phil>,<4138-4138>,driver,True
-	<phil>,<4208-4208>,copilot,True
-	<him>,<4212-4212>,copilot,False
-	<him>,<4219-4219>,copilot,False
-	<phil>,<4221-4221>,driver,True
-	<him>,<4229-4229>,driver,False
-	<he>,<4232-4232>,driver,False
-	<him>,<4236-4236>,driver,False
-	<he>,<4237-4237>,driver,False
-	<he>,<4255-4255>,copilot,False
-	<phil>,<4274-4274>,copilot,True
-	<phil>,<4459-4459>,driver,True
-	<phil>,<4465-4465>,copilot,True
-	<phils>,<4473-4473>,copilot,False
-	<phil>,<4500-4500>,copilot,True
-	<he>,<4517-4517>,copilot,False
-	<his>,<4525-4525>,copilot,False
-	<his>,<4527-4527>,copilot,False
-	<him>,<4531-4531>,copilot,False
-	<phil>,<4596-4596>,driver,True
-	<phil>,<4611-4611>,driver,True
-	<he>,<4637-4637>,driver,False
-	<phil>,<4660-4660>,copilot,True
-	<phil>,<4730-4730>,driver,True
-	<him>,<4736-4736>,driver,False
-	<phils>,<3661-3661>,driver,False
-	<paulie>,<4541-4541>,driver,False
-<Other> appear_num:46 expression_num:29 omit:0 by_driver_appear:20 by_driver_expression:17 by_driver_omit:0
-	<the ac>,<405-406>,copilot,False
-	<paul>,<450-450>,copilot,False
-	<paul>,<532-532>,copilot,False
-	<thats>,<547-547>,driver,False
-	<this>,<554-554>,driver,False
-	<it>,<658-658>,copilot,False
-	<here>,<821-821>,driver,False
-	<the post card>,<880-882>,driver,False
-	<san francisco>,<941-942>,driver,False
-	<san francisco>,<958-959>,copilot,False
-	<cupertino>,<965-965>,driver,False
-	<a car>,<1068-1069>,copilot,False
-	<paul>,<1421-1421>,copilot,False
-	<air force one>,<1466-1468>,copilot,False
-	<the right side>,<1557-1559>,copilot,False
-	<here>,<1575-1575>,driver,False
-	<this sign>,<1804-1805>,copilot,False
-	<the building>,<1953-1954>,driver,False
-	<carnegie mellon building>,<1959-1961>,driver,False
-	<there>,<1970-1970>,copilot,False
-	<professor ed katz>,<1991-1993>,copilot,False
-	<there>,<2000-2000>,copilot,False
-	<there>,<2005-2005>,driver,False
-	<there>,<2021-2021>,driver,False
-	<the founder>,<2094-2095>,driver,False
-	<elon musk>,<2100-2101>,driver,False
-	<he>,<2102-2102>,driver,False
-	<he>,<2107-2107>,copilot,False
-	<he>,<2685-2685>,copilot,False
-	<the bay area>,<2828-2830>,driver,False
-	<paul>,<2862-2862>,copilot,False
-	<the document>,<3355-3356>,copilot,False
-	<it>,<3361-3361>,copilot,False
-	<the boss>,<3365-3366>,copilot,False
-	<the document>,<3378-3379>,copilot,False
-	<the document>,<3480-3481>,driver,False
-	<the stuff>,<3509-3510>,driver,False
-	<the document>,<3536-3537>,copilot,False
-	<the thing>,<3612-3613>,driver,False
-	<a document>,<3830-3831>,driver,False
-	<a document>,<3840-3841>,driver,False
-	<a police car>,<3881-3883>,copilot,False
-	<paul>,<4109-4109>,copilot,False
-	<his boss>,<4525-4526>,copilot,False
-	<his boss>,<4527-4528>,copilot,False
-	<the one way>,<492-494>,copilot,False
-<sam_mckenna> appear_num:44 expression_num:7 omit:14 by_driver_appear:13 by_driver_expression:3 by_driver_omit:7
-	<a friend>,<52-53>,copilot,False
-	<that>,<56-56>,copilot,False
-	<his>,<66-66>,copilot,False
-	<a friend>,<3034-3035>,copilot,False
-	<his>,<3038-3038>,copilot,False
-	<he>,<3042-3042>,copilot,False
-	<he>,<3049-3049>,copilot,False
-	<him>,<3063-3063>,copilot,False
-	<him>,<3102-3102>,copilot,False
-	<him>,<3113-3113>,driver,False
-	<him>,<3126-3126>,copilot,False
-	<sam>,<3143-3143>,copilot,True
-	<sam>,<3170-3170>,driver,True
-	<him>,<3186-3186>,driver,False
-	<him>,<3189-3189>,driver,False
-	<him>,<3202-3202>,copilot,False
-	<him>,<3216-3216>,copilot,False
-	<sam>,<3730-3730>,copilot,True
-	<him>,<3736-3736>,copilot,False
-	<him>,<3743-3743>,copilot,False
-	<sam>,<3749-3749>,driver,True
-	<him>,<3762-3762>,driver,False
-	<him>,<3767-3767>,copilot,False
-	<him>,<3780-3780>,copilot,False
-	<him>,<3784-3784>,copilot,False
-	<him>,<3789-3789>,copilot,False
-	<sam>,<3924-3924>,copilot,True
-	<sam>,<3930-3930>,copilot,True
-	<he>,<3934-3934>,copilot,False
-	<he>,<3935-3935>,copilot,False
-	<he>,<3949-3949>,copilot,False
-	<he>,<3959-3959>,copilot,False
-	<him>,<3987-3987>,copilot,False
-	<sam>,<4126-4126>,driver,True
-	<he>,<4128-4128>,driver,False
-	<sam>,<4271-4271>,copilot,True
-	<sam>,<4299-4299>,driver,True
-	<sam>,<4437-4437>,copilot,True
-	<hes>,<4441-4441>,copilot,False
-	<sam>,<4547-4547>,driver,True
-	<him>,<4553-4553>,driver,False
-	<sam>,<4664-4664>,copilot,True
-	<sam>,<4679-4679>,driver,True
-	<sam>,<4748-4748>,driver,True
+	<I'm>,<3-3>,copilot,False,Person or Vehicle (No Gesture)
+	<your car assistant>,<4-6>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<21-21>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<132-132>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<137-137>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<149-149>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<178-178>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<186-186>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<216-216>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<273-273>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<401-401>,copilot,False,Person or Vehicle (No Gesture)
+	<you're>,<410-410>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<610-610>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<651-651>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<666-666>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<683-683>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<811-811>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<813-813>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<817-817>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<829-829>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<843-843>,driver,False,Person or Vehicle (No Gesture)
+	<you're>,<844-844>,driver,False,Person or Vehicle (No Gesture)
+	<I'll>,<909-909>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<911-911>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<943-943>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<945-945>,driver,False,Person or Vehicle (No Gesture)
+	<me>,<1030-1030>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<1279-1279>,driver,False,Person or Vehicle (No Gesture)
+	<me>,<1365-1365>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<1403-1403>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<1475-1475>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2016-2016>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<2062-2062>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2204-2204>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2557-2557>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2562-2562>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<2645-2645>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<2652-2652>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2818-2818>,driver,False,Person or Vehicle (No Gesture)
+	<me>,<2945-2945>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<2948-2948>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<2951-2951>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<2956-2956>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<3002-3002>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<3051-3051>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<3124-3124>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3198-3198>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3439-3439>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3446-3446>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3673-3673>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3725-3725>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3728-3728>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3734-3734>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3777-3777>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3976-3976>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<3985-3985>,copilot,False,Person or Vehicle (No Gesture)
+	<me>,<4144-4144>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4217-4217>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4310-4310>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4313-4313>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4317-4317>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4326-4326>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4334-4334>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<4378-4378>,copilot,False,Person or Vehicle (No Gesture)
+	<your>,<4391-4391>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4538-4538>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<4588-4588>,copilot,False,Person or Vehicle (No Gesture)
+	<you>,<4600-4600>,driver,False,Person or Vehicle (No Gesture)
+	<I>,<4716-4716>,copilot,False,Person or Vehicle (No Gesture)
+	<I>,<4688-4688>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4701-4701>,driver,False,Person or Vehicle (No Gesture)
+<phil_collison> appear_num:70 expression_num:12 omit:0 by_driver_appear:36 by_driver_expression:7 by_driver_omit:0
+	<a colleague>,<75-76>,copilot,False,Person or Vehicle (No Gesture)
+	<that>,<77-77>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<82-82>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<2218-2218>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<2223-2223>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<2229-2229>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<2245-2245>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<2246-2246>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<2252-2252>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2255-2255>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2259-2259>,driver,False,Person or Vehicle (No Gesture)
+	<your>,<2262-2262>,driver,False,Person or Vehicle (No Gesture)
+	<your>,<2264-2264>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2270-2270>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<2478-2478>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<2481-2481>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<2506-2506>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<3311-3311>,copilot,False,Person or Vehicle (No Gesture)
+	<who>,<3313-3313>,copilot,False,Person or Vehicle (No Gesture)
+	<the colleague>,<3322-3323>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3328-3328>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3332-3332>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3343-3343>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3352-3352>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3369-3369>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3381-3381>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3386-3386>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<3391-3391>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3399-3399>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<3483-3483>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3512-3512>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3532-3532>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<3546-3546>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3585-3585>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3616-3616>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3833-3833>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<3838-3838>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4043-4043>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<4051-4051>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<4055-4055>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<4061-4061>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<4094-4094>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4096-4096>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4138-4138>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4208-4208>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<4212-4212>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<4219-4219>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4221-4221>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<4229-4229>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4232-4232>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<4236-4236>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4237-4237>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4255-4255>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4274-4274>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4459-4459>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4465-4465>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil's>,<4473-4473>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4500-4500>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<4517-4517>,copilot,False,Person or Vehicle (No Gesture)
+	<his>,<4525-4525>,copilot,False,Person or Vehicle (No Gesture)
+	<his>,<4527-4527>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<4531-4531>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4596-4596>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4611-4611>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4637-4637>,driver,False,Person or Vehicle (No Gesture)
+	<Phil>,<4660-4660>,copilot,False,Person or Vehicle (No Gesture)
+	<Phil>,<4730-4730>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<4736-4736>,driver,False,Person or Vehicle (No Gesture)
+	<Phil's>,<3661-3661>,driver,False,Person or Vehicle (No Gesture)
+	<Paulie>,<4541-4541>,driver,False,Person or Vehicle (No Gesture)
+<Other> appear_num:46 expression_num:30 omit:0 by_driver_appear:20 by_driver_expression:17 by_driver_omit:0
+	<the AC>,<405-406>,copilot,False,Other (No Gesture)
+	<Paul>,<450-450>,copilot,False,Person or Vehicle (No Gesture)
+	<Paul>,<532-532>,copilot,False,Person or Vehicle (No Gesture)
+	<thats>,<547-547>,driver,False,Person or Vehicle (No Gesture)
+	<this>,<554-554>,driver,False,Person or Vehicle (No Gesture)
+	<it>,<658-658>,copilot,False,Other (No Gesture)
+	<here>,<821-821>,driver,False,Building or Public Space (No Gesture)
+	<the post card>,<880-882>,driver,False,Other (No Gesture)
+	<San Francisco>,<941-942>,driver,False,Building or Public Space (No Gesture)
+	<San Francisco>,<958-959>,copilot,False,Building or Public Space (No Gesture)
+	<Cupertino>,<965-965>,driver,False,Building or Public Space (No Gesture)
+	<a car>,<1068-1069>,copilot,False,Person or Vehicle (No Gesture)
+	<Paul>,<1421-1421>,copilot,False,Person or Vehicle (No Gesture)
+	<Air Force One>,<1466-1468>,copilot,False,Person or Vehicle (No Gesture)
+	<the right side>,<1557-1559>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<1575-1575>,driver,False,Road or Driveway (No Gesture)
+	<this sign>,<1804-1805>,copilot,False,Traffic Signal (Gesture)
+	<the building>,<1953-1954>,driver,False,Building or Public Space (No Gesture)
+	<Carnegie Mellon building>,<1959-1961>,driver,False,Building or Public Space (No Gesture)
+	<there>,<1970-1970>,copilot,False,Building or Public Space (No Gesture)
+	<Professor Ed Katz>,<1991-1993>,copilot,False,Person or Vehicle (No Gesture)
+	<there>,<2000-2000>,copilot,False,Building or Public Space (No Gesture)
+	<there>,<2005-2005>,driver,False,Building or Public Space (No Gesture)
+	<there>,<2021-2021>,driver,False,Building or Public Space (No Gesture)
+	<the founder>,<2094-2095>,driver,False,Person or Vehicle (No Gesture)
+	<Elon Musk>,<2100-2101>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<2102-2102>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<2107-2107>,copilot,False,Person or Vehicle (No Gesture)
+	<He>,<2685-2685>,copilot,False,Person or Vehicle (No Gesture)
+	<the bay area>,<2828-2830>,driver,False,Building or Public Space (No Gesture)
+	<Paul>,<2862-2862>,copilot,False,Person or Vehicle (No Gesture)
+	<the document>,<3355-3356>,copilot,False,Other (No Gesture)
+	<it>,<3361-3361>,copilot,False,Other (No Gesture)
+	<the boss>,<3365-3366>,copilot,False,Person or Vehicle (No Gesture)
+	<the document>,<3378-3379>,copilot,False,Other (No Gesture)
+	<the document>,<3480-3481>,driver,False,Other (No Gesture)
+	<the stuff>,<3509-3510>,driver,False,Other (No Gesture)
+	<the document>,<3536-3537>,copilot,False,Other (No Gesture)
+	<the thing>,<3612-3613>,driver,False,Other (No Gesture)
+	<a document>,<3830-3831>,driver,False,Other (No Gesture)
+	<a document>,<3840-3841>,driver,False,Other (No Gesture)
+	<a police car>,<3881-3883>,copilot,False,Person or Vehicle (No Gesture)
+	<Paul>,<4109-4109>,copilot,False,Person or Vehicle (No Gesture)
+	<his boss>,<4525-4526>,copilot,False,Person or Vehicle (No Gesture)
+	<his boss>,<4527-4528>,copilot,False,Person or Vehicle (No Gesture)
+	<the one way>,<492-494>,copilot,False,Traffic Signal (Gesture)
+<sam_mckenna> appear_num:44 expression_num:7 omit:0 by_driver_appear:13 by_driver_expression:3 by_driver_omit:0
+	<a friend>,<52-53>,copilot,False,Person or Vehicle (No Gesture)
+	<that>,<56-56>,copilot,False,Person or Vehicle (No Gesture)
+	<his>,<66-66>,copilot,False,Person or Vehicle (No Gesture)
+	<a friend>,<3034-3035>,copilot,False,Person or Vehicle (No Gesture)
+	<his>,<3038-3038>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3042-3042>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3049-3049>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3063-3063>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3102-3102>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3113-3113>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3126-3126>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3143-3143>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3170-3170>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3186-3186>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3189-3189>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3202-3202>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3216-3216>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3730-3730>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3736-3736>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3743-3743>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3749-3749>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3762-3762>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<3767-3767>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3780-3780>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3784-3784>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3789-3789>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3924-3924>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<3930-3930>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3934-3934>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3935-3935>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3949-3949>,copilot,False,Person or Vehicle (No Gesture)
+	<he>,<3959-3959>,copilot,False,Person or Vehicle (No Gesture)
+	<him>,<3987-3987>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<4126-4126>,driver,False,Person or Vehicle (No Gesture)
+	<he>,<4128-4128>,driver,False,Person or Vehicle (No Gesture)
+	<Sam>,<4271-4271>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<4299-4299>,driver,False,Person or Vehicle (No Gesture)
+	<Sam>,<4437-4437>,copilot,False,Person or Vehicle (No Gesture)
+	<he's>,<4441-4441>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<4547-4547>,driver,False,Person or Vehicle (No Gesture)
+	<him>,<4553-4553>,driver,False,Person or Vehicle (No Gesture)
+	<Sam>,<4664-4664>,copilot,False,Person or Vehicle (No Gesture)
+	<Sam>,<4679-4679>,driver,False,Person or Vehicle (No Gesture)
+	<Sam>,<4748-4748>,driver,False,Person or Vehicle (No Gesture)
 <Set> appear_num:36 expression_num:11 omit:0 by_driver_appear:18 by_driver_expression:7 by_driver_omit:0
-	<well>,<157-157>,copilot,False
-	<we>,<527-527>,copilot,False
-	<we>,<598-598>,copilot,False
-	<we>,<622-622>,driver,False
-	<we>,<1050-1050>,copilot,False
-	<we>,<1925-1925>,copilot,False
-	<we>,<2188-2188>,copilot,False
-	<we>,<2283-2283>,driver,False
-	<we>,<2431-2431>,copilot,False
-	<some documents>,<3336-3337>,copilot,False
-	<we>,<3397-3397>,copilot,False
-	<we>,<3525-3525>,copilot,False
-	<we>,<3527-3527>,copilot,False
-	<we>,<3828-3828>,driver,False
-	<lets>,<3942-3942>,copilot,False
-	<lets>,<3989-3989>,driver,False
-	<lets>,<4189-4189>,driver,False
-	<we>,<4234-4234>,driver,False
-	<they>,<4265-4265>,copilot,False
-	<each other>,<4268-4269>,copilot,False
-	<they>,<4279-4279>,copilot,False
-	<them>,<4285-4285>,driver,False
-	<you>,<4291-4291>,driver,False
-	<both>,<4338-4338>,driver,False
-	<both>,<4349-4349>,driver,False
-	<both>,<4352-4352>,driver,False
-	<them>,<4355-4355>,driver,False
-	<us>,<4366-4366>,driver,False
-	<them>,<4381-4381>,copilot,False
-	<we>,<4421-4421>,copilot,False
-	<we>,<4508-4508>,copilot,False
-	<we>,<4629-4629>,driver,False
-	<we>,<4645-4645>,driver,False
-	<we>,<4696-4696>,driver,False
-	<two of us>,<4703-4707>,driver,False
-	<two of us>,<4753-4755>,driver,False
+	<we'll>,<157-157>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<527-527>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<598-598>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<622-622>,driver,False,Person or Vehicle (No Gesture)
+	<we>,<1050-1050>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<1925-1925>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<2188-2188>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<2283-2283>,driver,False,Person or Vehicle (No Gesture)
+	<we>,<2431-2431>,copilot,False,Person or Vehicle (No Gesture)
+	<some documents>,<3336-3337>,copilot,False,Other (No Gesture)
+	<we>,<3397-3397>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<3525-3525>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<3527-3527>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<3828-3828>,driver,False,Person or Vehicle (No Gesture)
+	<let's>,<3942-3942>,copilot,False,Person or Vehicle (No Gesture)
+	<let's>,<3989-3989>,driver,False,Person or Vehicle (No Gesture)
+	<let's>,<4189-4189>,driver,False,Person or Vehicle (No Gesture)
+	<we>,<4234-4234>,driver,False,Person or Vehicle (No Gesture)
+	<they>,<4265-4265>,copilot,False,Person or Vehicle (No Gesture)
+	<each other>,<4268-4269>,copilot,False,Person or Vehicle (No Gesture)
+	<they>,<4279-4279>,copilot,False,Person or Vehicle (No Gesture)
+	<them>,<4285-4285>,driver,False,Person or Vehicle (No Gesture)
+	<you>,<4291-4291>,driver,False,Person or Vehicle (No Gesture)
+	<both>,<4338-4338>,driver,False,Person or Vehicle (No Gesture)
+	<both>,<4349-4349>,driver,False,Person or Vehicle (No Gesture)
+	<both>,<4352-4352>,driver,False,Person or Vehicle (No Gesture)
+	<them>,<4355-4355>,driver,False,Person or Vehicle (No Gesture)
+	<us>,<4366-4366>,driver,False,Person or Vehicle (No Gesture)
+	<them>,<4381-4381>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<4421-4421>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<4508-4508>,copilot,False,Person or Vehicle (No Gesture)
+	<we>,<4629-4629>,driver,False,Person or Vehicle (No Gesture)
+	<we>,<4645-4645>,driver,False,Person or Vehicle (No Gesture)
+	<we>,<4696-4696>,driver,False,Person or Vehicle (No Gesture)
+	<two of us>,<4703-4707>,driver,False,Person or Vehicle (No Gesture)
+	<two of us>,<4753-4755>,driver,False,Person or Vehicle (No Gesture)
 <museum> appear_num:14 expression_num:7 omit:8 by_driver_appear:5 by_driver_expression:4 by_driver_omit:3
-	<a museum>,<264-265>,copilot,True
-	<a museum>,<267-268>,driver,True
-	<a museum>,<281-282>,copilot,True
-	<it>,<338-338>,driver,False
-	<it>,<343-343>,copilot,False
-	<there>,<372-372>,copilot,False
-	<that museum>,<425-426>,driver,True
-	<the museum>,<429-430>,copilot,True
-	<museum>,<439-439>,copilot,True
-	<the museum>,<500-501>,driver,True
-	<it>,<505-505>,driver,False
-	<here>,<525-525>,copilot,False
-	<a museum>,<601-602>,copilot,True
-	<it>,<603-603>,copilot,False
-<moffett_field> appear_num:13 expression_num:6 omit:3 by_driver_appear:2 by_driver_expression:2 by_driver_omit:0
-	<multi field>,<17-18>,copilot,True
-	<moffett field>,<29-30>,copilot,True
-	<here>,<37-37>,copilot,False
-	<here>,<59-59>,copilot,False
-	<this place>,<90-91>,copilot,False
-	<here>,<104-104>,copilot,False
-	<here>,<243-243>,copilot,False
-	<this area>,<391-392>,copilot,False
-	<here>,<1239-1239>,copilot,False
-	<this area>,<1690-1691>,driver,False
-	<it>,<1705-1705>,driver,False
-	<moffett field>,<1940-1941>,copilot,True
-	<here>,<2410-2410>,copilot,False
+	<a museum>,<264-265>,copilot,True,Building or Public Space (No Gesture)
+	<a museum>,<267-268>,driver,True,Building or Public Space (No Gesture)
+	<a museum>,<281-282>,copilot,True,Building or Public Space (No Gesture)
+	<it>,<338-338>,driver,False,Building or Public Space (No Gesture)
+	<it>,<343-343>,copilot,False,Building or Public Space (No Gesture)
+	<there>,<372-372>,copilot,False,Building or Public Space (No Gesture)
+	<that museum>,<425-426>,driver,True,Building or Public Space (No Gesture)
+	<the museum>,<429-430>,copilot,True,Building or Public Space (No Gesture)
+	<museum>,<439-439>,copilot,True,Building or Public Space (No Gesture)
+	<the museum>,<500-501>,driver,True,Building or Public Space (No Gesture)
+	<it>,<505-505>,driver,False,Building or Public Space (No Gesture)
+	<here>,<525-525>,copilot,False,Building or Public Space (No Gesture)
+	<a museum>,<601-602>,copilot,True,Building or Public Space (No Gesture)
+	<it>,<603-603>,copilot,False,Building or Public Space (No Gesture)
+<moffett_field> appear_num:13 expression_num:6 omit:1 by_driver_appear:2 by_driver_expression:2 by_driver_omit:0
+	<multi field>,<17-18>,copilot,True,Building or Public Space (No Gesture)
+	<Moffett Field>,<29-30>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<37-37>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<59-59>,copilot,False,Building or Public Space (No Gesture)
+	<this place>,<90-91>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<104-104>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<243-243>,copilot,False,Building or Public Space (No Gesture)
+	<this area>,<391-392>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<1239-1239>,copilot,False,Building or Public Space (No Gesture)
+	<this area>,<1690-1691>,driver,False,Building or Public Space (No Gesture)
+	<it>,<1705-1705>,driver,False,Building or Public Space (No Gesture)
+	<Moffett Field>,<1940-1941>,copilot,False,Building or Public Space (No Gesture)
+	<here>,<2410-2410>,copilot,False,Building or Public Space (No Gesture)
 <gym> appear_num:13 expression_num:3 omit:13 by_driver_appear:10 by_driver_expression:3 by_driver_omit:10
-	<a gym>,<639-640>,driver,True
-	<gym>,<646-646>,driver,True
-	<the gym>,<905-906>,driver,True
-	<a gym>,<915-916>,copilot,True
-	<the gym>,<1011-1012>,copilot,True
-	<the gym>,<1368-1369>,driver,True
-	<gym>,<1371-1371>,driver,True
-	<the gym>,<1392-1393>,driver,True
-	<the gym>,<1394-1395>,driver,True
-	<the gym>,<1528-1529>,driver,True
-	<gym>,<1565-1565>,driver,True
-	<gym>,<1570-1570>,copilot,True
-	<the gym>,<1589-1590>,driver,True
+	<a gym>,<639-640>,driver,True,Building or Public Space (No Gesture)
+	<gym>,<646-646>,driver,True,Building or Public Space (No Gesture)
+	<the gym>,<905-906>,driver,True,Building or Public Space (No Gesture)
+	<a gym>,<915-916>,copilot,True,Building or Public Space (No Gesture)
+	<the gym>,<1011-1012>,copilot,True,Building or Public Space (No Gesture)
+	<the gym>,<1368-1369>,driver,True,Building or Public Space (No Gesture)
+	<gym>,<1371-1371>,driver,True,Building or Public Space (No Gesture)
+	<the gym>,<1392-1393>,driver,True,Building or Public Space (No Gesture)
+	<the gym>,<1394-1395>,driver,True,Building or Public Space (No Gesture)
+	<the gym>,<1528-1529>,driver,True,Building or Public Space (No Gesture)
+	<gym>,<1565-1565>,driver,True,Building or Public Space (No Gesture)
+	<gym>,<1570-1570>,copilot,True,Building or Public Space (No Gesture)
+	<the gym>,<1589-1590>,driver,True,Building or Public Space (No Gesture)
 <hotel> appear_num:11 expression_num:5 omit:7 by_driver_appear:4 by_driver_expression:2 by_driver_omit:4
-	<the hotel>,<1617-1618>,driver,True
-	<hotel>,<1894-1894>,driver,True
-	<the hotel>,<1918-1919>,copilot,True
-	<the place>,<1922-1923>,copilot,False
-	<the place where we>,<2038-2041>,copilot,False
-	<the building>,<2316-2317>,copilot,False
-	<the building>,<2341-2342>,copilot,False
-	<the hotel>,<4186-4187>,driver,True
-	<the hotel>,<4192-4193>,driver,True
-	<hotel>,<4403-4403>,copilot,True
-	<the hotel>,<4426-4427>,copilot,True
-<mcdonalds> appear_num:8 expression_num:3 omit:6 by_driver_appear:5 by_driver_expression:1 by_driver_omit:5
-	<mcdonalds>,<643-643>,driver,True
-	<mcdonalds>,<648-648>,driver,True
-	<mcdonalds>,<1359-1359>,driver,True
-	<mcdonalds>,<1610-1610>,driver,True
-	<mcdonalds>,<1672-1672>,driver,True
-	<mcdonalds>,<1738-1738>,copilot,True
-	<the building>,<1769-1770>,copilot,False
-	<it>,<1786-1786>,copilot,False
+	<the hotel>,<1617-1618>,driver,True,Building or Public Space (No Gesture)
+	<hotel>,<1894-1894>,driver,True,Building or Public Space (No Gesture)
+	<the hotel>,<1918-1919>,copilot,True,Building or Public Space (No Gesture)
+	<the place>,<1922-1923>,copilot,False,Building or Public Space (No Gesture)
+	<the place where we>,<2038-2041>,copilot,False,Building or Public Space (No Gesture)
+	<the building>,<2316-2317>,copilot,False,Building or Public Space (No Gesture)
+	<the building>,<2341-2342>,copilot,False,Building or Public Space (No Gesture)
+	<the hotel>,<4186-4187>,driver,True,Building or Public Space (No Gesture)
+	<the hotel>,<4192-4193>,driver,True,Building or Public Space (No Gesture)
+	<hotel>,<4403-4403>,copilot,True,Building or Public Space (No Gesture)
+	<the hotel>,<4426-4427>,copilot,True,Building or Public Space (No Gesture)
+<mcdonalds> appear_num:8 expression_num:4 omit:0 by_driver_appear:5 by_driver_expression:1 by_driver_omit:0
+	<McDonald's>,<643-643>,driver,False,Building or Public Space (No Gesture)
+	<McDonald's>,<648-648>,driver,False,Building or Public Space (No Gesture)
+	<McDonald's>,<1359-1359>,driver,False,Building or Public Space (No Gesture)
+	<McDonald's>,<1610-1610>,driver,False,Building or Public Space (No Gesture)
+	<McDonald's>,<1672-1672>,driver,False,Building or Public Space (No Gesture)
+	<+McDonald's>,<1738-1738>,copilot,False,Building or Public Space (Gesture)
+	<the building>,<1769-1770>,copilot,False,Building or Public Space (No Gesture)
+	<it>,<1786-1786>,copilot,False,Building or Public Space (No Gesture)
 <barracks> appear_num:8 expression_num:6 omit:5 by_driver_appear:4 by_driver_expression:4 by_driver_omit:2
-	<the barracks>,<2232-2233>,driver,True
-	<the army barracks>,<2275-2277>,driver,True
-	<the army barrack>,<2286-2288>,driver,False
-	<the barracks>,<2435-2436>,copilot,True
-	<this>,<2472-2472>,copilot,False
-	<army barracks>,<2474-2475>,copilot,True
-	<the barracks>,<3394-3395>,copilot,True
-	<phils place>,<3661-3662>,driver,False
-<nanotech> appear_num:8 expression_num:2 omit:7 by_driver_appear:7 by_driver_expression:2 by_driver_omit:6
-	<nanotech>,<3023-3023>,driver,True
-	<nanotech>,<3231-3231>,driver,True
-	<nanotech>,<3288-3288>,driver,True
-	<nanotech>,<3408-3408>,driver,True
-	<nanotech>,<3495-3495>,driver,True
-	<nanotech>,<3628-3628>,driver,True
-	<nanotech>,<4158-4158>,copilot,True
-	<there>,<4167-4167>,driver,False
+	<the barracks>,<2232-2233>,driver,True,Building or Public Space (No Gesture)
+	<the army barracks>,<2275-2277>,driver,True,Building or Public Space (No Gesture)
+	<the army barrack>,<2286-2288>,driver,False,Building or Public Space (No Gesture)
+	<the barracks>,<2435-2436>,copilot,True,Building or Public Space (No Gesture)
+	<this>,<2472-2472>,copilot,False,Building or Public Space (No Gesture)
+	<army barracks>,<2474-2475>,copilot,True,Building or Public Space (No Gesture)
+	<the barracks>,<3394-3395>,copilot,True,Building or Public Space (No Gesture)
+	<Phil's place>,<3661-3662>,driver,False,Building or Public Space (No Gesture)
+<nanotech> appear_num:8 expression_num:2 omit:0 by_driver_appear:7 by_driver_expression:2 by_driver_omit:0
+	<Nanotech>,<3023-3023>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<3231-3231>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<3288-3288>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<3408-3408>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<3495-3495>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<3628-3628>,driver,False,Building or Public Space (No Gesture)
+	<Nanotech>,<4158-4158>,copilot,False,Building or Public Space (No Gesture)
+	<there>,<4167-4167>,driver,False,Building or Public Space (No Gesture)
 <intersection41> appear_num:7 expression_num:4 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<459-459>,copilot,False
-	<here>,<1226-1226>,copilot,False
-	<the stop sign>,<1534-1536>,copilot,False
-	<here>,<2024-2024>,copilot,False
-	<the next stop sign>,<2375-2378>,copilot,False
-	<heres>,<2413-2413>,driver,False
-	<here>,<3793-3793>,copilot,False
-<crown_startup_funds> appear_num:7 expression_num:5 omit:4 by_driver_appear:6 by_driver_expression:4 by_driver_omit:4
-	<crown startup fund>,<2238-2240>,driver,True
-	<crowns>,<2537-2537>,driver,False
-	<crown startup fund>,<2576-2578>,driver,True
-	<its>,<2863-2863>,copilot,False
-	<crown startup fund>,<2940-2942>,driver,True
-	<crown startup funds>,<2979-2981>,driver,True
-	<there>,<2990-2990>,driver,False
+	<here>,<459-459>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<1226-1226>,copilot,False,Road or Driveway (No Gesture)
+	<the stop sign>,<1534-1536>,copilot,False,Road or Driveway (Gesture)
+	<here>,<2024-2024>,copilot,False,Road or Driveway (No Gesture)
+	<the next stop sign>,<2375-2378>,copilot,False,Road or Driveway (No Gesture)
+	<here's>,<2413-2413>,driver,False,Road or Driveway (No Gesture)
+	<here>,<3793-3793>,copilot,False,Road or Driveway (No Gesture)
+<crown_startup_funds> appear_num:7 expression_num:5 omit:0 by_driver_appear:6 by_driver_expression:4 by_driver_omit:0
+	<Crown Start-Up Fund>,<2238-2240>,driver,False,Building or Public Space (No Gesture)
+	<Crowns>,<2537-2537>,driver,False,Building or Public Space (No Gesture)
+	<Crown Start-Up Fund>,<2576-2578>,driver,False,Building or Public Space (No Gesture)
+	<it's>,<2863-2863>,copilot,False,Building or Public Space (No Gesture)
+	<Crown Start-Up Fund>,<2940-2942>,driver,False,Building or Public Space (No Gesture)
+	<Crown Start-Up Funds>,<2979-2981>,driver,False,Building or Public Space (No Gesture)
+	<there>,<2990-2990>,driver,False,Building or Public Space (No Gesture)
 <Unknown> appear_num:5 expression_num:5 omit:0 by_driver_appear:2 by_driver_expression:2 by_driver_omit:0
-	<that door>,<2489-2493>,driver,False
-	<suv>,<2870-2870>,copilot,False
-	<that suv>,<2874-2875>,copilot,False
-	<that one>,<2883-2884>,driver,False
-	<the suv>,<2891-2892>,copilot,False
+	<that door>,<2489-2493>,driver,False,Other (Gesture)
+	<SUV>,<2870-2870>,copilot,False,Person or Vehicle (No Gesture)
+	<that SUV>,<2874-2875>,copilot,False,Person or Vehicle (No Gesture)
+	<that one>,<2883-2884>,driver,False,Person or Vehicle (No Gesture)
+	<the SUV>,<2891-2892>,copilot,False,Person or Vehicle (No Gesture)
 <post_office> appear_num:5 expression_num:2 omit:5 by_driver_appear:5 by_driver_expression:2 by_driver_omit:5
-	<the post office>,<628-630>,driver,True
-	<post office>,<644-645>,driver,True
-	<the post office>,<973-975>,driver,True
-	<the post office>,<1378-1380>,driver,True
-	<the post office>,<1386-1388>,driver,True
+	<the post office>,<628-630>,driver,True,Building or Public Space (No Gesture)
+	<post office>,<644-645>,driver,True,Building or Public Space (No Gesture)
+	<the post office>,<973-975>,driver,True,Building or Public Space (No Gesture)
+	<the post office>,<1378-1380>,driver,True,Building or Public Space (No Gesture)
+	<the post office>,<1386-1388>,driver,True,Building or Public Space (No Gesture)
 <intersection47> appear_num:5 expression_num:3 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<the intersection>,<2663-2664>,copilot,False
-	<here>,<2670-2670>,copilot,False
-	<here>,<2677-2677>,driver,False
-	<this inter>,<2676-2678>,copilot,False
-	<here>,<2680-2680>,copilot,False
+	<the intersection>,<2663-2664>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<2670-2670>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<2677-2677>,driver,False,Road or Driveway (No Gesture)
+	<this inter->,<2676-2678>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<2680-2680>,copilot,False,Road or Driveway (No Gesture)
 <nanotech_parking> appear_num:5 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<4107-4107>,copilot,False
-	<here>,<4111-4111>,copilot,False
-	<here>,<4113-4113>,copilot,False
-	<here>,<4118-4118>,driver,False
-	<here>,<4120-4120>,copilot,False
+	<here>,<4107-4107>,copilot,False,Road or Driveway (Gesture)
+	<here>,<4111-4111>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<4113-4113>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<4118-4118>,driver,False,Road or Driveway (No Gesture)
+	<here>,<4120-4120>,copilot,False,Road or Driveway (No Gesture)
 <intersection19> appear_num:5 expression_num:4 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<746-748>,copilot,False
-	<there>,<749-749>,copilot,False
-	<the next stop sign>,<755-758>,copilot,False
-	<here>,<805-805>,copilot,False
-	<here>,<4033-4033>,copilot,False
+	<the stop sign>,<746-748>,copilot,False,Road or Driveway (No Gesture)
+	<there>,<749-749>,copilot,False,Road or Driveway (No Gesture)
+	<the next stop sign>,<755-758>,copilot,False,Road or Driveway (Gesture)
+	<here>,<805-805>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<4033-4033>,copilot,False,Road or Driveway (No Gesture)
 <fire_hydrant_by_army_barracks> appear_num:4 expression_num:1 omit:4 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the hydrant>,<2455-2456>,copilot,True
-	<the hydrant>,<2464-2465>,copilot,True
-	<the hydrant>,<2467-2468>,copilot,True
-	<the hydrant>,<3814-3815>,copilot,True
+	<the hydrant>,<2455-2456>,copilot,True,Other (No Gesture)
+	<the hydrant>,<2464-2465>,copilot,True,Other (No Gesture)
+	<the hydrant>,<2467-2468>,copilot,True,Other (No Gesture)
+	<the hydrant>,<3814-3815>,copilot,True,Other (No Gesture)
 <gas_station> appear_num:4 expression_num:4 omit:2 by_driver_appear:2 by_driver_expression:2 by_driver_omit:1
-	<the gas station>,<1250-1252>,copilot,True
-	<gas station>,<1254-1255>,driver,True
-	<its>,<1261-1261>,driver,False
-	<here>,<1308-1308>,copilot,False
+	<the gas station>,<1250-1252>,copilot,True,Building or Public Space (Gesture)
+	<gas station>,<1254-1255>,driver,True,Building or Public Space (No Gesture)
+	<it's>,<1261-1261>,driver,False,Building or Public Space (No Gesture)
+	<here>,<1308-1308>,copilot,False,Building or Public Space (No Gesture)
 <intersection12> appear_num:4 expression_num:3 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<545-545>,copilot,False
-	<that>,<699-699>,copilot,False
-	<that street>,<701-702>,copilot,False
-	<here>,<712-712>,copilot,False
+	<here>,<545-545>,copilot,False,Road or Driveway (No Gesture)
+	<that>,<699-699>,copilot,False,Road or Driveway (Gesture)
+	<that street>,<701-702>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<712-712>,copilot,False,Road or Driveway (No Gesture)
 <stop_sign_0> appear_num:3 expression_num:2 omit:3 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
-	<the stop sign>,<452-454>,copilot,True
-	<stop sign>,<2416-2417>,driver,True
-	<the stop sign>,<3796-3798>,copilot,True
+	<the stop sign>,<452-454>,copilot,True,Traffic Signal (No Gesture)
+	<stop sign>,<2416-2417>,driver,True,Traffic Signal (No Gesture)
+	<the stop sign>,<3796-3798>,copilot,True,Traffic Signal (Gesture)
 <parking_spot101> appear_num:3 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<1836-1836>,copilot,False
-	<here>,<1841-1841>,driver,False
-	<here>,<1838-1838>,copilot,False
-<drivethrough_of_mcdonalds> appear_num:3 expression_num:3 omit:1 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
-	<mcdonalds drive though>,<1610-1612>,driver,True
-	<its>,<1779-1779>,copilot,False
-	<it>,<1783-1783>,copilot,False
+	<here>,<1836-1836>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<1841-1841>,driver,False,Road or Driveway (No Gesture)
+	<here>,<1838-1838>,copilot,False,Road or Driveway (Gesture)
+<drivethrough_of_mcdonalds> appear_num:3 expression_num:3 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
+	<McDonald's drive though>,<1610-1612>,driver,False,Road or Driveway (No Gesture)
+	<it's>,<1779-1779>,copilot,False,Road or Driveway (No Gesture)
+	<it>,<1783-1783>,copilot,False,Road or Driveway (No Gesture)
 <parking_lot_23> appear_num:2 expression_num:2 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<heres>,<1549-1549>,copilot,False
-	<a parking lot>,<1550-1552>,copilot,True
+	<here's>,<1549-1549>,copilot,False,Road or Driveway (No Gesture)
+	<a parking lot>,<1550-1552>,copilot,True,Road or Driveway (No Gesture)
 <intersection38> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<1978-1978>,copilot,False
-	<the stop sign>,<3890-3892>,copilot,False
+	<here>,<1978-1978>,copilot,False,Road or Driveway (No Gesture)
+	<the stop sign>,<3890-3892>,copilot,False,Road or Driveway (No Gesture)
 <intersection36> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the intersection>,<2731-2732>,copilot,False
-	<here>,<2751-2751>,copilot,False
+	<the intersection>,<2731-2732>,copilot,False,Road or Driveway (Gesture)
+	<here>,<2751-2751>,copilot,False,Road or Driveway (Gesture)
 <gas_lane1> appear_num:2 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<1319-1319>,driver,False
-	<here>,<1325-1325>,copilot,False
+	<here>,<1319-1319>,driver,False,Road or Driveway (No Gesture)
+	<here>,<1325-1325>,copilot,False,Road or Driveway (No Gesture)
 <intersection28> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3666-3666>,copilot,False
-	<here>,<3679-3679>,copilot,False
+	<here>,<3666-3666>,copilot,False,Road or Driveway (Gesture)
+	<here>,<3679-3679>,copilot,False,Road or Driveway (No Gesture)
 <intersection21> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2857-2857>,copilot,False
-	<here>,<4046-4046>,copilot,False
+	<here>,<2857-2857>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<4046-4046>,copilot,False,Road or Driveway (Gesture)
 <parking_spot44> appear_num:2 expression_num:2 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<right here>,<574-575>,driver,False
-	<here>,<695-695>,copilot,False
+	<right here>,<574-575>,driver,False,Road or Driveway (No Gesture)
+	<here>,<695-695>,copilot,False,Road or Driveway (No Gesture)
 <street0> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the street>,<1043-1044>,copilot,False
-	<that street>,<1059-1060>,copilot,False
+	<the street>,<1043-1044>,copilot,False,Road or Driveway (No Gesture)
+	<that street>,<1059-1060>,copilot,False,Road or Driveway (No Gesture)
 <street1> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<that street>,<1634-1635>,copilot,False
-	<that street>,<2348-2349>,copilot,False
+	<that street>,<1634-1635>,copilot,False,Road or Driveway (No Gesture)
+	<that street>,<2348-2349>,copilot,False,Road or Driveway (No Gesture)
 <stop_sign_65> appear_num:2 expression_num:1 omit:2 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<2583-2585>,copilot,True
-	<the stop sign>,<3869-3871>,copilot,True
+	<the stop sign>,<2583-2585>,copilot,True,Traffic Signal (No Gesture)
+	<the stop sign>,<3869-3871>,copilot,True,Traffic Signal (No Gesture)
 <intersection108> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the intersection>,<329-330>,copilot,False
-	<that intersection>,<2362-2363>,copilot,False
+	<the intersection>,<329-330>,copilot,False,Road or Driveway (Gesture)
+	<that intersection>,<2362-2363>,copilot,False,Road or Driveway (Gesture)
 <barracks_parking> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2492-2492>,copilot,False
-	<here>,<2546-2546>,copilot,False
+	<here>,<2492-2492>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<2546-2546>,copilot,False,Road or Driveway (No Gesture)
 <intersection3> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2086-2086>,copilot,False
-	<here>,<2370-2370>,copilot,False
+	<here>,<2086-2086>,copilot,False,Road or Driveway (Gesture)
+	<here>,<2370-2370>,copilot,False,Road or Driveway (No Gesture)
 <intersection40> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<there>,<1657-1657>,copilot,False
-	<here>,<1666-1666>,copilot,False
+	<there>,<1657-1657>,copilot,False,Road or Driveway (Gesture)
+	<here>,<1666-1666>,copilot,False,Road or Driveway (No Gesture)
 <intersection42> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the next intersection>,<481-483>,copilot,False
-	<here>,<499-499>,copilot,False
+	<the next intersection>,<481-483>,copilot,False,Road or Driveway (Gesture)
+	<here>,<499-499>,copilot,False,Road or Driveway (No Gesture)
 <hangar1> appear_num:2 expression_num:2 omit:0 by_driver_appear:2 by_driver_expression:2 by_driver_omit:0
-	<this one>,<1486-1487>,driver,False
-	<here>,<1496-1496>,driver,False
+	<this one>,<1486-1487>,driver,False,Building or Public Space (No Gesture)
+	<here>,<1496-1496>,driver,False,Building or Public Space (No Gesture)
 <stop_sign_13> appear_num:2 expression_num:2 omit:2 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
-	<a stop sign>,<2425-2427>,copilot,True
-	<stop sign>,<2441-2442>,driver,True
+	<a stop sign>,<2425-2427>,copilot,True,Traffic Signal (No Gesture)
+	<stop sign>,<2441-2442>,driver,True,Traffic Signal (No Gesture)
 <road9> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3698-3698>,copilot,False
-	<here>,<4604-4604>,copilot,False
+	<here>,<3698-3698>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<4604-4604>,copilot,False,Road or Driveway (Gesture)
 <ordering_window> appear_num:2 expression_num:2 omit:1 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
-	<the window>,<1830-1831>,driver,True
-	<here>,<1845-1845>,copilot,False
+	<the window>,<1830-1831>,driver,True,Other (No Gesture)
+	<here>,<1845-1845>,copilot,False,Other (No Gesture)
 <museum_parking_lot> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<530-530>,copilot,False
-	<here>,<570-570>,copilot,False
+	<here>,<530-530>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<570-570>,copilot,False,Road or Driveway (No Gesture)
 <car> appear_num:2 expression_num:2 omit:2 by_driver_appear:1 by_driver_expression:1 by_driver_omit:1
-	<the car>,<1582-1583>,driver,True
-	<your car>,<3339-3340>,copilot,True
+	<the car>,<1582-1583>,driver,True,Person or Vehicle (No Gesture)
+	<your car>,<3339-3340>,copilot,True,Person or Vehicle (No Gesture)
 <intersection73> appear_num:2 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<1747-1747>,copilot,False
-	<here>,<1754-1754>,copilot,False
+	<here>,<1747-1747>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<1754-1754>,copilot,False,Road or Driveway (Gesture)
 <intersection76> appear_num:2 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<1772-1772>,copilot,False
-	<here>,<1777-1777>,driver,False
+	<here>,<1772-1772>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<1777-1777>,driver,False,Road or Driveway (No Gesture)
 <barracks_driveway> appear_num:2 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<2483-2483>,driver,False
-	<here>,<3824-3824>,copilot,False
+	<here>,<2483-2483>,driver,False,Road or Driveway (No Gesture)
+	<here>,<3824-3824>,copilot,False,Road or Driveway (No Gesture)
 <hotel_parking_lot> appear_num:2 expression_num:2 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<this parking lot>,<295-297>,copilot,True
-	<here>,<4691-4691>,copilot,False
+	<this parking lot>,<295-297>,copilot,True,Road or Driveway (No Gesture)
+	<here>,<4691-4691>,copilot,False,Road or Driveway (Gesture)
 <intersection137> appear_num:2 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<here>,<3267-3267>,copilot,False
-	<here>,<3273-3273>,driver,False
+	<here>,<3267-3267>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<3273-3273>,driver,False,Road or Driveway (No Gesture)
 <intersection15> appear_num:2 expression_num:2 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the next one>,<729-731>,copilot,False
-	<here>,<737-737>,copilot,False
+	<the next one>,<729-731>,copilot,False,Road or Driveway (No Gesture)
+	<here>,<737-737>,copilot,False,Road or Driveway (No Gesture)
 <parking_lot_22> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<873-873>,copilot,False
+	<here>,<873-873>,copilot,False,Road or Driveway (No Gesture)
 <commissary> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<commissary>,<259-259>,copilot,True
+	<commissary>,<259-259>,copilot,True,Building or Public Space (No Gesture)
 <gas_station_driveway> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<this way>,<1409-1410>,copilot,False
+	<this way>,<1409-1410>,copilot,False,Road or Driveway (Gesture)
 <intersection31> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3716-3716>,copilot,False
+	<here>,<3716-3716>,copilot,False,Road or Driveway (Gesture)
 <bowling_alley> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<a bowling alley>,<255-257>,copilot,True
+	<a bowling alley>,<255-257>,copilot,True,Building or Public Space (No Gesture)
 <intersection183> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<1440-1440>,copilot,False
+	<here>,<1440-1440>,copilot,False,Road or Driveway (No Gesture)
 <intersection20> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<834-834>,copilot,False
+	<here>,<834-834>,copilot,False,Road or Driveway (No Gesture)
 <conference_center> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<a conference center>,<247-249>,copilot,True
+	<a conference center>,<247-249>,copilot,True,Building or Public Space (No Gesture)
 <street4> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<that street>,<3302-3303>,copilot,False
+	<that street>,<3302-3303>,copilot,False,Road or Driveway (Gesture)
 <driveway15> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<that street>,<1906-1907>,copilot,False
+	<that street>,<1906-1907>,copilot,False,Road or Driveway (Gesture)
 <parking_lot_aisle56> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<4535-4535>,copilot,False
+	<here>,<4535-4535>,copilot,False,Road or Driveway (No Gesture)
 <parking_lot_aisle52> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3282-3282>,copilot,False
+	<here>,<3282-3282>,copilot,False,Road or Driveway (No Gesture)
 <intersection8> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<2779-2781>,copilot,False
+	<the stop sign>,<2779-2781>,copilot,False,Road or Driveway (No Gesture)
 <driveway6> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<that street>,<4417-4418>,copilot,False
+	<that street>,<4417-4418>,copilot,False,Road or Driveway (Gesture)
 <intersection0> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2355-2355>,copilot,False
+	<here>,<2355-2355>,copilot,False,Road or Driveway (No Gesture)
 <intersection1> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2113-2113>,copilot,False
+	<here>,<2113-2113>,copilot,False,Road or Driveway (Gesture)
 <intersection2> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<there>,<2295-2295>,copilot,False
+	<there>,<2295-2295>,copilot,False,Road or Driveway (No Gesture)
 <stop_sign_8> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<1076-1078>,copilot,True
+	<the stop sign>,<1076-1078>,copilot,True,Traffic Signal (No Gesture)
 <stop_sign_3> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<stop sign>,<1221-1222>,copilot,True
+	<stop sign>,<1221-1222>,copilot,True,Traffic Signal (Gesture)
 <crown_startup_funds_parking1> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<4488-4488>,copilot,False
+	<here>,<4488-4488>,copilot,False,Road or Driveway (No Gesture)
 <intersection45> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the intersection>,<2601-2602>,copilot,False
+	<the intersection>,<2601-2602>,copilot,False,Road or Driveway (No Gesture)
 <intersection44> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3866-3866>,copilot,False
+	<here>,<3866-3866>,copilot,False,Road or Driveway (No Gesture)
 <intersection46> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the intersection>,<2628-2629>,copilot,False
+	<the intersection>,<2628-2629>,copilot,False,Road or Driveway (Gesture)
 <stop_sign_18> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<1679-1681>,copilot,True
+	<the stop sign>,<1679-1681>,copilot,True,Traffic Signal (No Gesture)
 <stop_sign_15> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<the stop sign>,<2762-2764>,copilot,True
+	<the stop sign>,<2762-2764>,copilot,True,Traffic Signal (No Gesture)
 <expressway> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<that street>,<1448-1449>,copilot,False
+	<that street>,<1448-1449>,copilot,False,Road or Driveway (No Gesture)
 <crown_startup_funds_parking> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2920-2920>,copilot,False
+	<here>,<2920-2920>,copilot,False,Road or Driveway (No Gesture)
 <road1> appear_num:1 expression_num:1 omit:0 by_driver_appear:1 by_driver_expression:1 by_driver_omit:0
-	<the road>,<3713-3714>,driver,False
+	<the road>,<3713-3714>,driver,False,Road or Driveway (No Gesture)
 <intersection78> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<1814-1814>,copilot,False
+	<here>,<1814-1814>,copilot,False,Road or Driveway (No Gesture)
 <parking_lot_aisle48> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<there>,<2866-2866>,copilot,False
+	<there>,<2866-2866>,copilot,False,Road or Driveway (Gesture)
 <parking_lot_1> appear_num:1 expression_num:1 omit:1 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<this parking lot>,<2847-2849>,copilot,True
+	<this parking lot>,<2847-2849>,copilot,True,Road or Driveway (No Gesture)
 <road136> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<2617-2617>,copilot,False
+	<here>,<2617-2617>,copilot,False,Road or Driveway (No Gesture)
 <intersection60> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<970-970>,copilot,False
+	<here>,<970-970>,copilot,False,Road or Driveway (No Gesture)
 <intersection138> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<4495-4495>,copilot,False
+	<here>,<4495-4495>,copilot,False,Road or Driveway (Gesture)
 <intersection98> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3695-3695>,copilot,False
+	<here>,<3695-3695>,copilot,False,Road or Driveway (No Gesture)
 <intersection95> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<3295-3295>,copilot,False
+	<here>,<3295-3295>,copilot,False,Road or Driveway (No Gesture)
 <intersection100> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<here>,<4597-4597>,copilot,False
+	<here>,<4597-4597>,copilot,False,Road or Driveway (No Gesture)
 <intersection17> appear_num:1 expression_num:1 omit:0 by_driver_appear:0 by_driver_expression:0 by_driver_omit:0
-	<heres>,<760-760>,copilot,False
+	<here's>,<760-760>,copilot,False,Road or Driveway (No Gesture)
