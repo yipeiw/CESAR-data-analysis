@@ -1,0 +1,175 @@
+the drive-through,get to,okay %int
+the drive-through,out of,and I'll
+conference center,have %hes,%spk a
+the stop sign,way to,okay and
+the stop sign,left after,okay and
+the stop sign,left at,we go
+the stop sign,left at,and continue
+the stop sign,right at,and the
+the stop sign,straight past,%int I
+the stop sign,go through,yes and
+the stop sign,left at,yes it
+the stop sign,left at,^Sam wants
+the stop sign,right at,right at
+the stop sign,road after,okay and
+station the gas,go to,where is
+this parking %int lot,out of,you pull
+the gas station,go to,I would
+the gas station,left okay,is opposite
+the gas station,pull into,just before
+museum the,how about,%spk okay
+first building the,^Nanotech is,on the
+my house,be at,this afternoon
+my house,be at,this afternoon
+driveway,the driveway,and drop
+this road,stay on,very long
+^Crown ^Start-Up ^Funds,%int with,you got
+^Crown ^Start-Up ^Funds,that has,okay we
+parking lot the hotel,get into,%int okay
+the second stop sign,continue beyond,the post
+sign the stop,straight after,so you
+sign the stop,left at,okay you
+the next stop sign,straight at,we make
+the next stop sign,right at,the army
+this corner,left at,okay and
+the driveway,go through,driveway and
+the driveway,right into,yes alright
+the driveway,this at,at the
+the driveway,driveway at,%int and
+lot the parking,%hes leave,and then
+lot the parking,out of,okay %int
+stop sign the,straight at,yes and
+stop sign the,right at,%int ohh
+the army barracks,meeting at,can you
+the army barracks,get to,yes I
+the army barracks,stop sign,is coming
+the army barracks,arrived at,okay let
+the army barracks,off to,okay great
+three buildings,go past,on the
+museum,done with,okay okay
+there,ohh right,on the
+there,can stop,actually okay
+there,to get,yes I
+there,to get,I can
+^Nanotech,go to,for a
+^Nanotech,over to,^Nanotech so
+^Nanotech,to ^Nanotech,so let's
+^Nanotech,on to,could yes
+^Nanotech,%int and,is the
+the commissary,the co-,or the
+swimming pool the,complex as,ah okay
+lot the hotel parking,get into,okay which
+^McCord,right on,okay do
+the hotel,back to,okay so
+the hotel,back to,%spk alright
+the hotel,directions to,okay so
+the hotel,back to,back at
+the hotel,back at,it's done
+the hotel,back to,I'm all
+the hotel,six at,if you
+stop sign the first,road to,at which
+stop sign the first,straight past,okay and
+which,lot okay,is coming
+^McDonald's,the gym,go back
+^McDonald's,stop by,before I
+^McDonald's,directions to,%int okay
+^McDonald's,sign and,will be
+^McDonald's,I see,so we
+^McDonald's,food %spk,%spk and
+the next intersection,%int at,we make
+town,to leave,tomorrow okay
+the nearest gas station,us to,okay so
+the road,we follow,all the
+the road,we follow,all the
+the road,we follow,to the
+the road,to U-turn,that we
+the road,continue following,we make
+the road,you follow,to the
+the road,get to,okay %int
+the road,and follow,we go
+that,okay okay,was a
+that,okay %int,is a
+the post office,stop sign,is on
+the post office,arrived at,%int okay
+the curve,continue around,or you
+the curve,continue around,in fact
+gas station parking the lot,let's leave,station parking
+a bowling alley,center %spk,%hes the
+here,a left,yes so
+here,left right,on the
+here,that ohh,we are
+here,pull in,make a
+here,okay %int,we are
+here,%int right,right here
+here,here right,okay %int
+here,stop right,okay yeah
+here,%hes right,curbside okay
+here,%spk right,yeah %int
+here,go straight,okay you
+here,just got,and I
+here,turn right,right you
+here,a right,%int okay
+it,I see,so you
+it,ohh here,is okay
+it,top of,okay %int
+^Start-Up ^Funds ^Crown,meeting at,can you
+the parking lot,out of,and I'll
+the parking lot,street to,%hes yes
+the parking lot,into yes,into the
+the parking lot,lot into,you can
+the parking lot,we leave,and then
+the parking lot,pull into,on the
+the parking lot,out of,%int great
+the parking lot,we leave,we go
+the parking lot,let's leave,and I'll
+the parking lot,we leave,make a
+the parking lot,pull into,here %hes
+the parking lot,left into,%spk right
+the parking lot,out of,and make
+the parking lot,out of,okay we
+the parking lot,out of,you have
+street the,go across,to the
+the first stop sign,straight past,okay we
+station parking lot the gas,of parking,should we
+parking area this,go past,okay and
+one the,us is,that has
+the intersection,f- at,we make
+parking lot the,out of,%int we
+this,right okay,is ^McCord
+this,^Avenue and,is where
+this,left at,at the
+the museum,commissary or,%spk %hes
+the museum,directions to,okay %int
+the museum,end and,will be
+the museum,in fact,is ohh
+the museum,park at,okay turn
+the museum,back to,okay should
+the museum,trip to,</noise> okay
+the museum,opposite of,that we
+the gym,go to,after the
+the gym,gym after,^McDonald's go
+the gym,going to,okay okay
+the gym,directions to,so let's
+the gym,go to,okay now
+the gym,okay and,will be
+the gym,%spk yes,is in
+the gym,great with,alright where
+the gym,sign and,we went
+the gym,back by,yes we're
+the gym,back by,we make
+office the post,go beyond,we went
+the building,around okay,to get
+the building,back of,okay park
+this stop sign,straight after,and ^McDonald's
+this stop sign,left at,am I
+this intersection,left at,okay there's
+this intersection,right at,and you
+this intersection,left at,%int so
+this point,left at,%int you
+curve the,continue around,yeah you
+road the,to follow,after the
+post office the,go to,next go
+post office the,go to,do you
+post office the,directions to,I would
+building the,straight and,right in
+building the,of go,to the

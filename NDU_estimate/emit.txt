@@ -1,0 +1,15 @@
+Traffic Signal|Go To,0.110
+Building or Public Space|Set Destination,0.929
+Other|Set Destination,0.143
+Other|Go To,0.061
+Person or Vehicle|Set Destination,0.929
+Building or Public Space|Other,0.667
+Building or Public Space|Leave,0.400
+Person or Vehicle|Go To,0.183
+Road or Driveway|Stop At,0.556
+Building or Public Space|Go To,0.268
+Road or Driveway|Leave,0.200
+Person or Vehicle|Stop At,0.333
+Road or Driveway|Go To,0.488
+Building or Public Space|Stop At,0.333
+Road or Driveway|Other,0.333

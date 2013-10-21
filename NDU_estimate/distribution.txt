@@ -1,0 +1,6 @@
+Go To,0.683
+Set Destination,0.117
+Stop At,0.075
+Other,0.075
+Leave,0.042
+START,0.008

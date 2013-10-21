@@ -2,14 +2,14 @@
 
 root=/home/yipeiw/Documents
 
-tool=$root/analysis/CESAR-data-analysis/pronounAnalysis.py
+tool=$root/Research-2013fall/LabelAnalysis/pronounAnalysis.py
 
-dataPath=$root/analysis/CESAR-data-analysis/result
+dataPath=$root/Research-2013fall/LabelAnalysis/result
 
 for sub in $dataPath/*;
 do
 	surfacefile=$sub/surfaceLayer.txt
-	outputfile=$sub/pronoun.txt
+	outputfile=$sub/pronountest.txt
 	echo "$tool $surfacefile $outputfile"
 	$tool $surfacefile $outputfile
 done

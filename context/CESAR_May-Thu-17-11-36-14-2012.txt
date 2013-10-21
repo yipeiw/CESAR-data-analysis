@@ -1,0 +1,135 @@
+the drive-through,around to,it looks
+my hotel,go into,okay that
+my hotel,back to,to wash
+my hotel,way to,you shouldn't
+the highway,let's take,and go
+the highway,ahead on,okay we
+the highway,to spare,has opened
+a commissary,also have,which is
+the stop sign,right at,so yes
+the stop sign,left at,%int alright
+station the gas,stop sign,is to
+^Crown ^Start-Up ^Funds,meeting at,okay alright
+^Crown ^Start-Up,alright %int,you said
+it,not taking,down ^Google
+it,^Google owns,they keep
+it,bowling alley,was great
+it,%unint behind,probably <noise>
+it,%hes that's,over there
+it,you see,I see
+it,I see,looks delicious
+it,looks like,cl- %hes
+it,<noise> that's,yeah take
+it,antenna on,okay do
+it,next to,perfect he
+it,okay so,should be
+it,intersection yeah,it's pretty
+it,worried about,because you're
+it,out on,looks pretty
+it,pretty interesting,is maybe
+business center,the same,okay so
+museum the,%int that's,you missed
+lot the parking,out of,and a
+lot the parking,right leave,this way
+a museum,we have,this is
+curb,a slight,ohh that's
+home,I'm going,for about
+this parking lot,left in,it's right
+room two seventeen,was in,%int okay
+stop sign the next,straight to,%int and
+stop sign that,right at,I know
+the other way,lot <noise>,the yeah
+this weird intersection,so at,we wanna
+it's,alley %hes,very nice
+it's,very nice,a old
+it's,base right,a museum
+it's,sounds interesting,pretty cool
+it's,parking lot,right next
+it's,%spk %spk,a little
+it's,yeah so,back towards
+it's,here well,a loading
+it's,good call,the right
+it's,o- here,in the
+it's,you sure,the building
+it's,yes yep,right here
+it's,yeah it,pretty bad
+there,jets in,ohh %spk
+there,to stop,on the
+there,lot up,okay right
+there,I'll be,at three
+there,three be,at three
+there,I'll be,at five
+there,five be,at five
+there,we'll be,with time
+the next corner,is at,marked post
+^Nanotech,meeting at,is just
+tennis court's,<noise> the,on your
+the hotel,back to,%spk not
+the weight room,left and,is at
+bowling alley,so the,is right
+bowling alley,in the,it was
+which,post office,is to
+army barracks the,meeting at,before going
+four seventy six,is at,so you
+^McDonald's,going to,so yeah
+^McDonald's,idea %hes,is right
+^McDonald's,head towards,okay ^Phil's
+army barracks,alright sure,is back
+lot this parking,right into,it's this
+the next stop sign,left at,so you
+a conference center,there's also,but %hes
+the post office,going to,%unint so
+the post office,going straight,is at
+swimming pool's,your right,on your
+here,out of,assistant left
+here,turn right,are they
+here,speed limit,is twenty
+here,turn right,^Jaime ^Lannister
+here,%hes straight,<noise> the
+here,yeah </noise>,<noise> %hes
+here,I park,well it's
+here,right in,oops %spk
+here,the right,%int do
+here,<noise> over,yeah </noise>
+here,a right,after the
+here,a left,%int yeah
+here,going around,prop planes
+here,get off,and take
+here,okay right,yeah %int
+here,just o-,it's in
+here,it's right,okay yep
+here,turn right,%int that's
+here,stop sign,%int alright
+here,a left,uh-ohh or
+here,left ohh,left %int
+here,shouldn't go,turn around
+here,go left,yep then
+the gas station,out of,okay <noise>
+your hotel,and here's,perfect we
+it's this building,parking lot,%int alright
+the parking lot,%hes leave,how do
+the parking lot,to leave,<noise> the
+the parking lot,left into,up there
+the parking lot,way across,%unint alright
+^Palo ^Alto,staying in,this summer
+next parking lot entrance the,yeah take,</noise> <noise>
+bowling alley a,we have,%hes it's
+that,%unint <noise>,is a
+this hangar,they taking,down or
+^Nanotech ^Industries,though at,%int ohh
+this,a museum,is a
+this,%hes good,is a
+^Moffett ^Field highway,get onto,okay where
+the gym,on to,%hes better
+office the post,go to,okay I
+the second floor,upstairs to,really %spk
+the inside seating,%hes seems,is closed
+this stop sign,so at,the gas
+this stop sign,left at,and get
+the bowling alley,back towards,%int okay
+the bowling alley,next to,okay <noise>
+post office the,back towards,which is
+building the,sure it's,with the
+that's,and %hes,it over
+that's,%int <noise>,it yeah
+that's,here %int,the museum

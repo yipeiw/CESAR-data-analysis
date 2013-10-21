@@ -1,0 +1,18 @@
+Stop At|Other,0.111
+Go To|Go To,0.793
+Other|Other,0.222
+Leave|Other,0.111
+Leave|Set Destination,0.214
+Stop At|Go To,0.098
+Set Destination|Set Destination,0.071
+Leave|Go To,0.012
+Go To|Other,0.556
+Other|Stop At,0.111
+Go To|Leave,0.800
+Set Destination|Go To,0.061
+Other|Set Destination,0.143
+Other|Go To,0.037
+Go To|Set Destination,0.571
+Other|Leave,0.200
+Set Destination|Stop At,0.778
+Set Destination|START,1.000
